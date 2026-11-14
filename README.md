@@ -147,6 +147,8 @@ Bangla-Idioms-Proverbs-Vault/
 
 ## 👨‍💻 প্রতিষ্ঠাতা ও পরিচালনা (Author & Maintainer)
 
+<img src="assets/img/profile.jpg" alt="Mohammad Golamrabbii" width="120" height="120" style="border-radius: 50%; border: 3px solid #10b981; object-fit: cover; box-shadow: 0 4px 14px rgba(16, 185, 129, 0.25); margin-bottom: 10px;">
+
 **Mohammad Golamrabbii**  
 *Tech & Media Entrepreneur | Typography Archivist | Digital Innovation Strategist*
 
