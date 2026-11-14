@@ -123,9 +123,6 @@ print(results)
 
 ```
 Bangla-Idioms-Proverbs-Vault/
-├── .github/
-│   └── workflows/
-│       └── pages.yml              # GitHub Pages অটো-ডিপ্লয়মেন্ট পাইপলাইন
 ├── data/
 │   ├── idioms.json                # বাগধারার মূল ডেটাসেট
 │   ├── proverbs.json              # প্রবাদ-প্রবচনের মূল ডেটাসেট
@@ -137,7 +134,7 @@ Bangla-Idioms-Proverbs-Vault/
 ├── sdk/
 │   ├── node/                      # Node.js SDK ও CLI টুল
 │   └── python/                    # Python SDK
-├── index.html                     # লাইভ ইন্টারেক্টিভ ওয়েব এক্সপ্লোরার ও কুইজ পোর্টাল
+├── index.html                     # লাইভ ইন্টারেক্টিভ ওয়েব এক্সপ্লোরার ও কুইজ পোর্টাল (GitHub Pages)
 ├── style.css                      # প্রিমিয়াম রেসপনসিভ স্টাইলিং (Glassmorphism & Dark Mode)
 ├── app.js                         # ক্লায়েন্ট সার্চ ও কুইজ ইঞ্জিন
 ├── README.md                      # সম্পূর্ণ ডকুমেন্টেশন
