@@ -1,0 +1,420 @@
+[
+  {
+    "id": "prv_001",
+    "proverb": "অতি চালাকের গলায় দড়ি",
+    "meaning": "অতিরিক্ত চাতুর্য শেষ পর্যন্ত নিজেরই ধ্বংসের কারণ হয়।",
+    "english_proverb": "Too much cunning overreaches itself.",
+    "context": "অতিমাত্রায় ফন্দিফিকির করে ধরা পড়ার ক্ষেত্রে ব্যবহৃত হয়।",
+    "tags": [
+      "wisdom",
+      "cunning",
+      "warning",
+      "bcs"
+    ]
+  },
+  {
+    "id": "prv_002",
+    "proverb": "অসারের তর্জন গর্জন সার",
+    "meaning": "অযোগ্য ও গুণহীন ব্যক্তিই সবচেয়ে বেশি হাঁকডাক দেয়।",
+    "english_proverb": "Empty vessels make the most sound.",
+    "context": "কথায় বড় কিন্তু কাজে শূন্য ব্যক্তিদের ক্ষেত্রে প্রযোজ্য।",
+    "tags": [
+      "wisdom",
+      "character",
+      "popular",
+      "bcs"
+    ]
+  },
+  {
+    "id": "prv_003",
+    "proverb": "আপন চরকায় তেল দাও",
+    "meaning": "অন্যের বিষয়ে নাক না গলিয়ে নিজের দায়িত্বে মনোযোগ দাও।",
+    "english_proverb": "Oil your own wheel / Mind your own business.",
+    "context": "অনাহূত উপদেশ বা হস্তক্ষেপকারীকে সতর্ক করতে।",
+    "tags": [
+      "advice",
+      "popular",
+      "work"
+    ]
+  },
+  {
+    "id": "prv_004",
+    "proverb": "কষ্ট না করলে কেষ্ট মেলে না",
+    "meaning": "কঠিন পরিশ্রম ও আত্মত্যাগ ছাড়া কোনো বড় সাফল্য অর্জন সম্ভব নয়।",
+    "english_proverb": "No pains, no gains.",
+    "context": "ছাত্রছাত্রী ও সাধকদের কঠোর সাধনায় প্রেরণা জোগাতে।",
+    "tags": [
+      "effort",
+      "success",
+      "motivation",
+      "popular"
+    ]
+  },
+  {
+    "id": "prv_005",
+    "proverb": "নাচতে না জানলে উঠান বাঁকা",
+    "meaning": "নিজের অক্ষমতা স্বীকার না করে পরিবেশ বা উপাদানের দোষ খোঁজা।",
+    "english_proverb": "A bad workman quarrels with his tools.",
+    "context": "ব্যর্থতায় অজুহাত সৃষ্টিকারীদের প্রসঙ্গে।",
+    "tags": [
+      "excuses",
+      "popular",
+      "bcs"
+    ]
+  },
+  {
+    "id": "prv_006",
+    "proverb": "গাছে কাঁঠাল গোঁফে তেল",
+    "meaning": "ফল পাওয়ার আগেই অতিরিক্ত প্রস্তুতি বা ভোগে আনন্দিত হওয়া।",
+    "english_proverb": "To count one's chickens before they are hatched.",
+    "context": "অগ্রিম আনন্দ বা অকাল উৎসব নিয়ে ব্যঙ্গ করতে।",
+    "tags": [
+      "folly",
+      "popular",
+      "exam"
+    ]
+  },
+  {
+    "id": "prv_007",
+    "proverb": "চোরের মার বড় গলা",
+    "meaning": "যে অপরাধী সে-ই সবচেয়ে বেশি গলা উঁচিয়ে নির্দোষ দাবি করে।",
+    "english_proverb": "Faults are thick where love is thin / A rogue screams loudest.",
+    "context": "অন্যায়কারী যখন অন্যকে ধমকায় তখন এটি ব্যবহার করা হয়।",
+    "tags": [
+      "guilt",
+      "justice",
+      "popular"
+    ]
+  },
+  {
+    "id": "prv_008",
+    "proverb": "ঝোপ বুঝে কোপ মারা",
+    "meaning": "সুযোগের সঠিক সদ্ব্যবহার করা।",
+    "english_proverb": "Make hay while the sun shines / Strike while the iron is hot.",
+    "context": "সময়মতো বুদ্ধিমান পদক্ষেপ নেওয়ার ক্ষেত্রে।",
+    "tags": [
+      "opportunity",
+      "timing",
+      "wisdom"
+    ]
+  },
+  {
+    "id": "prv_009",
+    "proverb": "তেল মাথায় তেল দেওয়া",
+    "meaning": "যার প্রাচুর্য আছে তাকেই কেবল আরও উপঢৌকন বা সুযোগ দেওয়া।",
+    "english_proverb": "To carry coals to Newcastle.",
+    "context": "ধনীদের বাড়তি সুবিধা এবং গরিবকে অবহেলার বিপরীতে।",
+    "tags": [
+      "society",
+      "inequality",
+      "bcs"
+    ]
+  },
+  {
+    "id": "prv_010",
+    "proverb": "দশের লাঠি একের বোঝা",
+    "meaning": "সকলে ঐক্যবদ্ধ হলে কঠিন দায়িত্বও সহজ হয়ে যায়।",
+    "english_proverb": "Many hands make light work / Many a little makes a mickle.",
+    "context": "সমবায়, ঐক্য ও দলগত কাজের গুরুত্ব বোঝাতে।",
+    "tags": [
+      "unity",
+      "teamwork",
+      "moral"
+    ]
+  },
+  {
+    "id": "prv_011",
+    "proverb": "ধান ভানতে শিবের গীত",
+    "meaning": "প্রাসঙ্গিক বিষয় বাদ দিয়ে অপ্রাসঙ্গিক বিষয়ের অবতারণা।",
+    "english_proverb": "To beat about the bush / irrelevance in context.",
+    "context": "মূল বক্তব্য এড়িয়ে কথা বাড়ানোর ক্ষেত্রে।",
+    "tags": [
+      "irrelevance",
+      "speech",
+      "bcs"
+    ]
+  },
+  {
+    "id": "prv_012",
+    "proverb": "নাই মামার চেয়ে কানা মামা ভালো",
+    "meaning": "একেবারে শূন্য থাকার চেয়ে সামান্য কিছু পাওয়াও অনেক ভালো।",
+    "english_proverb": "Half a loaf is better than no bread / Something is better than nothing.",
+    "context": "অল্প প্রাপ্তিতে সন্তুষ্ট থাকার সান্ত্বনা দিতে।",
+    "tags": [
+      "contentment",
+      "popular",
+      "bcs"
+    ]
+  },
+  {
+    "id": "prv_013",
+    "proverb": "বিন্দু বিন্দু জলে সিন্ধু হয়",
+    "meaning": "সামান্য সামান্য সঞ্চয় ও ক্ষুদ্র প্রচেষ্টাই কালক্রমে বিশাল আকার ধারণ করে।",
+    "english_proverb": "Little drops of water make the mighty ocean.",
+    "context": "ধৈর্য ও সঞ্চয়ের প্রেরণা দিতে।",
+    "tags": [
+      "savings",
+      "patience",
+      "growth"
+    ]
+  },
+  {
+    "id": "prv_014",
+    "proverb": "মানুষ মাত্রই ভুল করে",
+    "meaning": "মানুষের সীমাবদ্ধতা রয়েছে, প্রত্যেকেই জীবনে কোনো না কোনো ভুল করতে পারে।",
+    "english_proverb": "To err is human.",
+    "context": "অনাকাঙ্ক্ষিত ভুল ক্ষমা বা উপলব্ধির প্রয়োজনে।",
+    "tags": [
+      "humanity",
+      "forgiveness",
+      "philosophy"
+    ]
+  },
+  {
+    "id": "prv_015",
+    "proverb": "যেখানে বাঘের ভয় সেখানেই সন্ধ্যা হয়",
+    "meaning": "যে বিপদের আশঙ্কা করা হয়, প্রতিকূল সময়ে প্রায়শই সেই বিপদই সামনে আসে।",
+    "english_proverb": "Dangers often come where danger is feared.",
+    "context": "ভয়ের পুনরাবৃত্তি ঘটলে এই প্রবাদ বলা হয়।",
+    "tags": [
+      "fear",
+      "adversity",
+      "popular",
+      "bcs"
+    ]
+  },
+  {
+    "id": "prv_016",
+    "proverb": "সবুরে মেওয়া ফলে",
+    "meaning": "ধৈর্য ধরলে মিষ্টি ও সুফল লাভ নিশ্চিত হয়।",
+    "english_proverb": "Patience has its reward / Good things come to those who wait.",
+    "context": "ধৈর্য ধারণের গুরুত্ব বোঝাতে।",
+    "tags": [
+      "patience",
+      "virtue",
+      "popular"
+    ]
+  },
+  {
+    "id": "prv_017",
+    "proverb": "চাচা আপন প্রাণ বাঁচা",
+    "meaning": "চরম বিপদের সময়ে প্রত্যেকেই নিজের জীবন বাঁচাতে ব্যস্ত থাকে।",
+    "english_proverb": "Every man for himself in times of peril.",
+    "context": "মহামারী বা আতঙ্কের সময় সার্বজনীন বাস্তবতা নির্দেশ করতে।",
+    "tags": [
+      "survival",
+      "reality"
+    ]
+  },
+  {
+    "id": "prv_018",
+    "proverb": "পরের মাথায় কাঁঠাল ভাঙা",
+    "meaning": "অন্যকে বিপদে ফেলে বা অন্যের খরচে নিজের ফায়দা লোটা।",
+    "english_proverb": "To make a cat's paw of someone.",
+    "context": "স্বার্থপর মানুষের চাতুর্যের বিরুদ্ধে।",
+    "tags": [
+      "exploitation",
+      "selfishness",
+      "popular"
+    ]
+  },
+  {
+    "id": "prv_019",
+    "proverb": "মড়ার ওপর খাঁড়ার ঘা",
+    "meaning": "চরম বিপদের মধ্যে আরও নতুন কোনো বিপদ এসে আঘাত হানা।",
+    "english_proverb": "To pour water on a drowned mouse / adding insult to injury.",
+    "context": "দুর্ভাগ্যপীড়িতের উপর নতুন আঘাতের বর্ণনায়।",
+    "tags": [
+      "tragedy",
+      "pain",
+      "bcs"
+    ]
+  },
+  {
+    "id": "prv_020",
+    "proverb": "হাতি ঘোড়া গেল তল, ভেড়া বলে কত জল",
+    "meaning": "যেখানে যোগ্য ও জ্ঞানীরাই পরাস্ত, সেখানে অযোগ্যদের অহংকার প্রকাশ।",
+    "english_proverb": "Fools rush in where angels fear to tread.",
+    "context": "পণ্ডিতদের ব্যর্থতার পর মূর্খের বাগাড়ম্বরে।",
+    "tags": [
+      "folly",
+      "humor",
+      "bcs"
+    ]
+  },
+  {
+    "id": "prv_021",
+    "proverb": "যত গর্জে তত বর্ষে না",
+    "meaning": "বেশি আস্ফালনকারী বাস্তবে তেমন কিছু করতে পারে না।",
+    "english_proverb": "Barking dogs seldom bite.",
+    "context": "হুমকিদাতার দুর্বলতা প্রমাণ করতে।",
+    "tags": [
+      "bluff",
+      "courage",
+      "bcs"
+    ]
+  },
+  {
+    "id": "prv_022",
+    "proverb": "অল্পবিদ্যা ভয়ংকরী",
+    "meaning": "সামান্য জ্ঞান নিয়ে অহংকার মারাত্মক বিপদের জন্ম দেয়।",
+    "english_proverb": "A little learning is a dangerous thing.",
+    "context": "অর্ধশিক্ষিত ব্যক্তির অহংকারের বিপরীতে।",
+    "tags": [
+      "knowledge",
+      "warning",
+      "popular"
+    ]
+  },
+  {
+    "id": "prv_023",
+    "proverb": "ইচ্ছা থাকলে উপায় হয়",
+    "meaning": "দৃঢ় সংকল্প থাকলে যে কোনো বাধা দূর করার পথ পাওয়া যায়।",
+    "english_proverb": "Where there is a will, there is a way.",
+    "context": "সংগ্রামী মানুষকে অনুপ্রেরণা দিতে।",
+    "tags": [
+      "willpower",
+      "success",
+      "motivation"
+    ]
+  },
+  {
+    "id": "prv_024",
+    "proverb": "উলুবনে মুক্তো ছড়ানো",
+    "meaning": "মূল্যহীন বা সমঝদারহীন ব্যক্তির সামনে জ্ঞান প্রদর্শন অর্থহীন।",
+    "english_proverb": "Cast pearls before swine.",
+    "context": "অযোগ্য শ্রোতার সামনে উত্তম বক্তব্য দিলে।",
+    "tags": [
+      "wisdom",
+      "futile",
+      "bcs"
+    ]
+  },
+  {
+    "id": "prv_025",
+    "proverb": "একতাই বল",
+    "meaning": "ঐক্যবদ্ধভাবে বসবাস করলে বড় শক্তি অর্জন করা যায়।",
+    "english_proverb": "Unity is strength.",
+    "context": "সামাজিক বা পারিবারিক মিলনে।",
+    "tags": [
+      "unity",
+      "strength"
+    ]
+  },
+  {
+    "id": "prv_026",
+    "proverb": "কয়লা ধুলে ময়লা যায় না",
+    "meaning": "জন্মগত কুস্বভাব কোনো সংস্কারেই সম্পূর্ণ পরিবর্তন হয় না।",
+    "english_proverb": "Black will take no other hue / A leopard cannot change its spots.",
+    "context": "চিরন্তন অসৎ চরিত্রের রূপ বোঝাতে।",
+    "tags": [
+      "habit",
+      "nature",
+      "popular"
+    ]
+  },
+  {
+    "id": "prv_027",
+    "proverb": "গরু মেরে জুতো দান",
+    "meaning": "মহাক্ষতি করে সামান্য লোকদেখানো উপকার করা।",
+    "english_proverb": "Rob Peter to pay Paul / To steal a goose and give the giblets in alms.",
+    "context": "ভণ্ড দানবীরের মুখোশ উন্মোচনে।",
+    "tags": [
+      "hypocrisy",
+      "charity",
+      "bcs"
+    ]
+  },
+  {
+    "id": "prv_028",
+    "proverb": "চাহিবামাত্র দিতে বাধ্য থাকিবে",
+    "meaning": "আইন ও দায়ের প্রামাণ্য বাধ্যবাধকতা।",
+    "english_proverb": "Payable on demand.",
+    "context": "অর্থনীতি ও প্রতিজ্ঞাপত্রের প্রবচন।",
+    "tags": [
+      "commerce",
+      "law"
+    ]
+  },
+  {
+    "id": "prv_029",
+    "proverb": "জল দেখে ছাড়ো কাপড়",
+    "meaning": "পরিস্থিতি ভালোমতো যাচাই করে পদক্ষেপ নেওয়া উচিত।",
+    "english_proverb": "Look before you leap.",
+    "context": "হঠকারিতার বিরুদ্ধে সতর্কতা।",
+    "tags": [
+      "caution",
+      "wisdom",
+      "popular"
+    ]
+  },
+  {
+    "id": "prv_030",
+    "proverb": "ঢিল মারলে পাটকেলটি খেতে হয়",
+    "meaning": "অন্যের অনিষ্ট করলে নিজেরও অনুরূপ পরিণাম ভোগ করতে হয়।",
+    "english_proverb": "Tit for tat.",
+    "context": "প্রতিশোধ বা প্রতিক্রিয়ার নিয়মে।",
+    "tags": [
+      "retaliation",
+      "karma"
+    ]
+  },
+  {
+    "id": "prv_031",
+    "proverb": "যার জ্বালা সেই জানে",
+    "meaning": "কষ্ট যে ভোগ করে কেবল সেই তার তীব্রতা অনুভব করে।",
+    "english_proverb": "The wearer best knows where the shoe pinches.",
+    "context": "সহমর্মিতার সীমা প্রকাশে।",
+    "tags": [
+      "empathy",
+      "pain"
+    ]
+  },
+  {
+    "id": "prv_032",
+    "proverb": "চোর পালালে বুদ্ধি বাড়ে",
+    "meaning": "বিপদ ঘটে যাওয়ার পর সতর্ক হওয়ার নিরর্থকতা।",
+    "english_proverb": "After death comes the doctor / To lock the stable door after the steed is stolen.",
+    "context": "দেরিতে ব্যবস্থা নেওয়ার ব্যর্থতায়।",
+    "tags": [
+      "folly",
+      "timing",
+      "bcs"
+    ]
+  },
+  {
+    "id": "prv_033",
+    "proverb": "লেবু কচলানো বেশি হলে তেতো হয়",
+    "meaning": "কোনো বিষয়ের অতিরিক্ত বাড়াবাড়ি খারাপ পরিণতি ডেকে আনে।",
+    "english_proverb": "Too much of anything is good for nothing.",
+    "context": "বাড়াবাড়ি বন্ধের আহ্বানে।",
+    "tags": [
+      "moderation",
+      "popular"
+    ]
+  },
+  {
+    "id": "prv_034",
+    "proverb": "সময়ের এক ফোঁড়, অসময়ের দশ ফোঁড়",
+    "meaning": "সঠিক সময়ে সামান্য পদক্ষেপ নিলে ভবিষ্যতে বিরাট অপচয় রোধ হয়।",
+    "english_proverb": "A stitch in time saves nine.",
+    "context": "সময়নিষ্ঠার গুরুত্ব তুলে ধরতে।",
+    "tags": [
+      "punctuality",
+      "wisdom",
+      "popular"
+    ]
+  },
+  {
+    "id": "prv_035",
+    "proverb": "মৌনং সম্মতি লক্ষণম্",
+    "meaning": "নীরবতা অনেক ক্ষেত্রে সম্মতির পরিচায়ক।",
+    "english_proverb": "Silence gives consent.",
+    "context": "আইন ও সামাজিক সমঝোতায়।",
+    "tags": [
+      "silence",
+      "law",
+      "philosophy"
+    ]
+  }
+]

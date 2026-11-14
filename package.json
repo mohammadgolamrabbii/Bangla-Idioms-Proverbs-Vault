@@ -1,0 +1,38 @@
+{
+  "name": "bangla-idioms-proverbs-vault",
+  "version": "1.0.0",
+  "description": "📖 Definitive Open-Source Vault of Bengali Idioms (বাগধারা), Proverbs (প্রবাদ-প্রবচন), Homophones (সমোচ্চারিত ভিন্নার্থক শব্দ), & One-Word Substitutions (এক কথায় প্রকাশ) with Interactive Web Explorer, Search & BCS Quiz Suite.",
+  "main": "sdk/node/index.js",
+  "bin": {
+    "bangla-vault": "sdk/node/cli.js"
+  },
+  "scripts": {
+    "start": "node sdk/node/cli.js",
+    "search": "node sdk/node/cli.js search",
+    "random": "node sdk/node/cli.js random",
+    "stats": "node sdk/node/cli.js stats"
+  },
+  "keywords": [
+    "bangla",
+    "bengali",
+    "idioms",
+    "proverbs",
+    "বাগধারা",
+    "প্রবাদ",
+    "সমোচ্চারিত-শব্দ",
+    "এক-কথায়-প্রকাশ",
+    "bcs",
+    "nlp",
+    "dataset"
+  ],
+  "author": "Mohammad Golamrabbii <emarketor2025@gmail.com> (https://linktr.ee/golamrabbii)",
+  "license": "MIT",
+  "homepage": "https://mohammadgolamrabbii.github.io/Bangla-Idioms-Proverbs-Vault/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohammadgolamrabbii/Bangla-Idioms-Proverbs-Vault.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mohammadgolamrabbii/Bangla-Idioms-Proverbs-Vault/issues"
+  }
+}

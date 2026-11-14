@@ -1,0 +1,1750 @@
+[
+  {
+    "id": "idm_001",
+    "phrase": "অগাধ জলের মাছ",
+    "meaning": "সুচতুর ব্যক্তি / অতি চালাক ব্যক্তি",
+    "sentence": "লোকটাকে সাধারণ মনে হলেও সে আসলে অগাধ জলের মাছ, তাকে ঠকানো সহজ নয়।",
+    "category": "মানবচরিত্র",
+    "english_equivalent": "A very cunning fellow / a deep fish",
+    "tags": [
+      "bcs",
+      "admission",
+      "cunning",
+      "character"
+    ]
+  },
+  {
+    "id": "idm_002",
+    "phrase": "অমাবস্যার চাঁদ",
+    "meaning": "দুর্লভ বস্তু / কদাচিৎ দৃশ্যমান",
+    "sentence": "চাকরি পাওয়ার পর থেকে রফিক তো অমাবস্যার চাঁদ হয়ে গেছে, দেখাই মেলে না।",
+    "category": "অসম্ভাব্যতা ও দুর্লভতা",
+    "english_equivalent": "A rare spectacle / once in a blue moon",
+    "tags": [
+      "bcs",
+      "popular",
+      "rare"
+    ]
+  },
+  {
+    "id": "idm_003",
+    "phrase": "আকাশ কুসুম",
+    "meaning": "অবাস্তব কল্পনা / অসম্ভব আকাঙ্ক্ষা",
+    "sentence": "বিনা পরিশ্রমে সফল হওয়ার স্বপ্ন দেখা আকাশ কুসুম কল্পনা ছাড়া কিছুই নয়।",
+    "category": "অসম্ভাব্যতা ও দুর্লভতা",
+    "english_equivalent": "Castles in the air / pipe dream / wild goose chase",
+    "tags": [
+      "bcs",
+      "imagination",
+      "exam"
+    ]
+  },
+  {
+    "id": "idm_004",
+    "phrase": "আকাশ ভেঙে পড়া",
+    "meaning": "হঠাৎ চরম বিপদে পড়া / অপ্রত্যাশিত বিপর্যয়",
+    "sentence": "বাবার আকস্মিক মৃত্যুর খবরে পুরো পরিবারটির মাথায় যেন আকাশ ভেঙে পড়ল।",
+    "category": "বিপদ ও সংকট",
+    "english_equivalent": "A bolt from the blue / sudden severe catastrophe",
+    "tags": [
+      "calamity",
+      "sadness",
+      "popular"
+    ]
+  },
+  {
+    "id": "idm_005",
+    "phrase": "আষাঢ়ে গল্প",
+    "meaning": "আজগুবি বা মিথ্যা কাহিনী",
+    "sentence": "তোমার এই আষাঢ়ে গল্প কেউ বিশ্বাস করবে না, সত্যি কথাটা বলো।",
+    "category": "প্রতারণা ও মিথ্যচার",
+    "english_equivalent": "A cock and bull story / tall tale",
+    "tags": [
+      "bcs",
+      "falsehood",
+      "exam"
+    ]
+  },
+  {
+    "id": "idm_006",
+    "phrase": "ইঁদুর কপালে",
+    "meaning": "নিতান্ত ভাগ্যহীন / দুর্ভাগ্যপীড়িত",
+    "sentence": "আমার মতো এমন ইঁদুর কপালে লোক সহজে কোথাও খুঁজে পাওয়া যাবে না।",
+    "category": "ভাগ্য ও অদৃষ্ট",
+    "english_equivalent": "Born under an unlucky star / wretchedly unfortunate",
+    "tags": [
+      "misfortune",
+      "luck",
+      "bcs"
+    ]
+  },
+  {
+    "id": "idm_007",
+    "phrase": "উভয় সংকট",
+    "meaning": "দুই দিক থেকেই বিপদের আশঙ্কা / দোটানা অবস্থা",
+    "sentence": "সত্য বললে ভাই অপরাধী হয়, মিথ্যা বললে আইন শাস্তি দেয়—আমি এখন উভয় সংকটে পড়েছি।",
+    "category": "বিপদ ও সংকট",
+    "english_equivalent": "Between the devil and the deep sea / in a dilemma",
+    "tags": [
+      "dilemma",
+      "popular",
+      "exam"
+    ]
+  },
+  {
+    "id": "idm_008",
+    "phrase": "উটকো ঝামেলা",
+    "meaning": "অযাচিত বা অপ্রত্যাশিত সমস্যা",
+    "sentence": "কাজের মাঝখানে এই উটকো ঝামেলাটা কোথা থেকে হাজির হলো?",
+    "category": "বিপদ ও সংকট",
+    "english_equivalent": "Uninvited nuisance / unexpected annoyance",
+    "tags": [
+      "trouble",
+      "daily"
+    ]
+  },
+  {
+    "id": "idm_009",
+    "phrase": "একচোখো",
+    "meaning": "পক্ষপাতদুষ্ট / পক্ষপাতী",
+    "sentence": "বিচারকের এমন একচোখো নীতি আদালতের প্রতি মানুষের আস্থা নষ্ট করে।",
+    "category": "মানবচরিত্র",
+    "english_equivalent": "Biased / partial / one-sided",
+    "tags": [
+      "bias",
+      "injustice",
+      "bcs"
+    ]
+  },
+  {
+    "id": "idm_010",
+    "phrase": "একাদশে বৃহস্পতি",
+    "meaning": "সৌভাগ্যের বিষয় / দারুণ সৌভাগ্য",
+    "sentence": "একসাথে পদোন্নতি ও লটারির টাকা—তার এখন একাদশে বৃহস্পতি চলছে।",
+    "category": "সৌভাগ্য ও সুসম্পর্ক",
+    "english_equivalent": "In full luck / stroke of high fortune",
+    "tags": [
+      "luck",
+      "prosperity",
+      "bcs"
+    ]
+  },
+  {
+    "id": "idm_011",
+    "phrase": "এলোপাতাড়ি",
+    "meaning": "উচ্ছৃঙ্খল বা বিশৃঙ্খলভাবে",
+    "sentence": "হঠাৎ পুলিশ দেখে সন্ত্রাসীরা এলোপাতাড়ি গুলি চালাতে শুরু করল।",
+    "category": "আচরণ ও গতিবিধি",
+    "english_equivalent": "At random / pell-mell / haphazardly",
+    "tags": [
+      "chaos",
+      "action"
+    ]
+  },
+  {
+    "id": "idm_012",
+    "phrase": "ওজন বুঝে চলা",
+    "meaning": "আত্মসম্মান ও মর্যাদা বজায় রেখে চলা",
+    "sentence": "সমাজে সম্মান পেতে হলে সবসময় নিজের ওজন বুঝে চলা উচিত।",
+    "category": "বুদ্ধিমত্তা ও নীতি",
+    "english_equivalent": "Know one's limits / act with dignity",
+    "tags": [
+      "dignity",
+      "wisdom"
+    ]
+  },
+  {
+    "id": "idm_013",
+    "phrase": "কচুকাটা করা",
+    "meaning": "নির্মমভাবে ধ্বংস বা হত্যা করা",
+    "sentence": "মহান মুক্তিযুদ্ধে আমাদের বীর যোদ্ধারা শত্রুসেনাদের কচুকাটা করেছিল।",
+    "category": "দ্বন্দ্ব ও সংগ্রাম",
+    "english_equivalent": "To massacre / rout mercilessly",
+    "tags": [
+      "war",
+      "defeat"
+    ]
+  },
+  {
+    "id": "idm_014",
+    "phrase": "কলমের খোঁচা",
+    "meaning": "লিখিত আদেশে মারাত্মক ক্ষতি করা",
+    "sentence": "এক কলমের খোঁচায় কেরানি বাবু গরিব চাষির জমি অন্যের নামে লিখে দিলেন।",
+    "category": "প্রতারণা ও মিথ্যচার",
+    "english_equivalent": "Stroke of a pen causing ruin / bureaucratic malice",
+    "tags": [
+      "bureaucracy",
+      "harm"
+    ]
+  },
+  {
+    "id": "idm_015",
+    "phrase": "কলির সন্ধ্যা",
+    "meaning": "দুঃখের বা অশুভের সূত্রপাত",
+    "sentence": "প্রথম পরীক্ষায় ফেল করেই ভেঙে পড়লে চলবে না, এ তো কেবল কলির সন্ধ্যা।",
+    "category": "বিপদ ও সংকট",
+    "english_equivalent": "The dawn of trouble / beginning of miseries",
+    "tags": [
+      "misfortune",
+      "time"
+    ]
+  },
+  {
+    "id": "idm_016",
+    "phrase": "কড়ায় গণ্ডায়",
+    "meaning": "সম্পূর্ণভাবে / পাই টু পাই হিসাব",
+    "sentence": "মহাজন তার সুদের টাকা কড়ায় গণ্ডায় উসুল করে নিল।",
+    "category": "সম্পদ ও অর্থ",
+    "english_equivalent": "To the last penny / strictly and accurately",
+    "tags": [
+      "money",
+      "precision",
+      "popular"
+    ]
+  },
+  {
+    "id": "idm_017",
+    "phrase": "কাঁঠালের আমসত্ত্ব",
+    "meaning": "অসম্ভব বস্তু",
+    "sentence": "অলস মানুষের মুখে বড় বড় পরিকল্পনা শোনা কাঁঠালের আমসত্ত্ব পাওয়ার মতোই অবাস্তব।",
+    "category": "অসম্ভাব্যতা ও দুর্লভতা",
+    "english_equivalent": "An impossibility / a mare's nest",
+    "tags": [
+      "impossible",
+      "bcs",
+      "exam"
+    ]
+  },
+  {
+    "id": "idm_018",
+    "phrase": "কাঁচা পয়সা",
+    "meaning": "নগদ টাকা বা উপরি রোজগার",
+    "sentence": "কাঁচা পয়সার লোভে অনেক সৎ মানুষও শেষ পর্যন্ত অসৎ পথে পা বাড়ায়।",
+    "category": "সম্পদ ও অর্থ",
+    "english_equivalent": "Easy money / ready cash",
+    "tags": [
+      "wealth",
+      "corruption"
+    ]
+  },
+  {
+    "id": "idm_019",
+    "phrase": "কাকের ছা বকের ছা",
+    "meaning": "অস্পষ্ট ও বিশ্রী হাতের লেখা",
+    "sentence": "খাতার পাতায় এমন কাকের ছা বকের ছা লিখলে পরীক্ষক নম্বর দেবেন কীভাবে?",
+    "category": "শিক্ষা ও সাহিত্য",
+    "english_equivalent": "Bad handwriting / chicken scratch",
+    "tags": [
+      "writing",
+      "handwriting",
+      "school"
+    ]
+  },
+  {
+    "id": "idm_020",
+    "phrase": "কাঠের পুতুল",
+    "meaning": "নির্জীব বা ক্ষমতাশূন্য ব্যক্তি",
+    "sentence": "অফিসে বড় সাহেব থাকলেও মূল সিদ্ধান্ত নেন সেক্রেটারি, সাহেব তো কেবল কাঠের পুতুল।",
+    "category": "মানবচরিত্র",
+    "english_equivalent": "A mere figurehead / puppet",
+    "tags": [
+      "powerless",
+      "character"
+    ]
+  },
+  {
+    "id": "idm_021",
+    "phrase": "কুল কাঠের আগুন",
+    "meaning": "তীব্র ও অপ্রশম্য অন্তর্জালা / তীব্র মানসিক কষ্ট",
+    "sentence": "সন্তানহারা মায়ের বুকে কুল কাঠের আগুন জ্বলছে অহর্নিশ।",
+    "category": "মনস্তত্ত্ব ও অনুভূতি",
+    "english_equivalent": "Unquenchable inner agony / smouldering torment",
+    "tags": [
+      "pain",
+      "grief",
+      "bcs"
+    ]
+  },
+  {
+    "id": "idm_022",
+    "phrase": "কূপমণ্ডূক",
+    "meaning": "সীমাবদ্ধ জ্ঞানসম্পন্ন ব্যক্তি / ঘরকুনো",
+    "sentence": "আজকের গ্লোবাল ভিলেজে বাস করেও কূপমণ্ডূক হয়ে থাকলে জীবনে এগোতে পারবে না।",
+    "category": "মূর্খতা ও অজ্ঞতা",
+    "english_equivalent": "Frog in the well / narrow-minded person",
+    "tags": [
+      "narrow-minded",
+      "knowledge",
+      "bcs"
+    ]
+  },
+  {
+    "id": "idm_023",
+    "phrase": "কেচে গণ্ডূষ",
+    "meaning": "নতুন করে প্রথম থেকে শুরু করা",
+    "sentence": "প্রজেক্টের পুরো ডেটা নষ্ট হয়ে যাওয়ায় আমাদের আবার কেচে গণ্ডূষ করতে হলো।",
+    "category": "কর্ম ও প্রচেষ্টা",
+    "english_equivalent": "To start from scratch / begin all over again",
+    "tags": [
+      "start",
+      "effort",
+      "bcs"
+    ]
+  },
+  {
+    "id": "idm_024",
+    "phrase": "কেঁচো খুঁড়তে সাপ",
+    "meaning": "ছোটখাটো তদন্ত করতে গিয়ে বড় ধরনের অপরাধ ধরা পড়া",
+    "sentence": "ব্যাংক কর্মকর্তার ছোট দুর্নীতির তদন্ত করতে গিয়ে কেঁচো খুঁড়তে সাপ বেরিয়ে এলো।",
+    "category": "রহস্য ও সত্য",
+    "english_equivalent": "Uncovering a viper while digging for earthworms / opening Pandora's box",
+    "tags": [
+      "investigation",
+      "crime",
+      "popular"
+    ]
+  },
+  {
+    "id": "idm_025",
+    "phrase": "কৈ মাছের প্রাণ",
+    "meaning": "যা সহজে মরে না / দীর্ঘজীবী বা সহনশীল",
+    "sentence": "এত বড় সড়ক দুর্ঘটনায় বেঁচে যাওয়া প্রমাণ করে লোকটার কৈ মাছের প্রাণ।",
+    "category": "জীবন ও স্থায়িত্ব",
+    "english_equivalent": "Having nine lives like a cat / tenacious life",
+    "tags": [
+      "survival",
+      "resilience",
+      "popular"
+    ]
+  },
+  {
+    "id": "idm_026",
+    "phrase": "খয়ের খাঁ",
+    "meaning": "চাটুকার বা মোসাহেব",
+    "sentence": "বসের চারপাশে খয়ের খাঁদের এমন ভিড় যে যোগ্য কর্মীরা কথাই বলতে পারে না।",
+    "category": "প্রতারণা ও কপটতা",
+    "english_equivalent": "A sycophant / bootlicker / flatterer",
+    "tags": [
+      "sycophant",
+      "office",
+      "bcs"
+    ]
+  },
+  {
+    "id": "idm_027",
+    "phrase": "গায়ে ফুঁ দিয়ে বেড়ানো",
+    "meaning": "দায়িত্বহীনভাবে অলস সময় কাটানো",
+    "sentence": "পরীক্ষা সন্নিকটে, আর তুমি গায়ে ফুঁ দিয়ে বেড়াচ্ছ!",
+    "category": "আলস্য ও অবহেলা",
+    "english_equivalent": "Wandering carefree without responsibilities / idling away",
+    "tags": [
+      "lazy",
+      "carefree"
+    ]
+  },
+  {
+    "id": "idm_028",
+    "phrase": "গৌরচন্দ্রিকা",
+    "meaning": "ভূমিকা বা ভূমিকা রচনা",
+    "sentence": "আসল কথাটা বলো, এত গৌরচন্দ্রিকা করার প্রয়োজন নেই।",
+    "category": "ভাষা ও যোগাযোগ",
+    "english_equivalent": "Preamble / lengthy prologue / beating around the bush",
+    "tags": [
+      "prologue",
+      "speech",
+      "bcs"
+    ]
+  },
+  {
+    "id": "idm_029",
+    "phrase": "গোবর গণেশ",
+    "meaning": "মূর্খ বা অকর্মণ্য ব্যক্তি",
+    "sentence": "এমন গোবর গণেশকে গুরুত্বপূর্ণ ফাইল পরিচালনার দায়িত্ব দেওয়া ঠিক হয়নি।",
+    "category": "মূর্খতা ও অজ্ঞতা",
+    "english_equivalent": "A total dunce / good-for-nothing fool",
+    "tags": [
+      "fool",
+      "character",
+      "bcs"
+    ]
+  },
+  {
+    "id": "idm_030",
+    "phrase": "গোঁফ খেজুরে",
+    "meaning": "চরম অলস ব্যক্তি",
+    "sentence": "তার মতো গোঁফ খেজুরে লোক নিজের খাওয়ার প্লেটটাও ধুয়ে রাখে না।",
+    "category": "আলস্য ও অবহেলা",
+    "english_equivalent": "Extremely lazy / chronic sluggard",
+    "tags": [
+      "lazy",
+      "bcs",
+      "exam"
+    ]
+  },
+  {
+    "id": "idm_031",
+    "phrase": "গোল্লায় যাওয়া",
+    "meaning": "নষ্ট হওয়া বা বিপথগামী হওয়া",
+    "sentence": "খারাপ বন্ধুদের সঙ্গে মিশে ছেলেটা একেবারে গোল্লায় গেছে।",
+    "category": "পতন ও নৈতিকতা",
+    "english_equivalent": "Go to the dogs / go to ruin",
+    "tags": [
+      "ruin",
+      "youth"
+    ]
+  },
+  {
+    "id": "idm_032",
+    "phrase": "ঘোড়ার ডিম",
+    "meaning": "অবাস্তব বা অস্তিত্বহীন বস্তু",
+    "sentence": "সারা বছর পড়াশোনা না করে পরীক্ষায় সে ঘোড়ার ডিম পেয়েছে।",
+    "category": "অসম্ভাব্যতা ও দুর্লভতা",
+    "english_equivalent": "A mare's nest / absolute zero / nothing",
+    "tags": [
+      "impossible",
+      "humor"
+    ]
+  },
+  {
+    "id": "idm_033",
+    "phrase": "ঘুঁটে পোড়ে গোবর হাসে",
+    "meaning": "অন্যের বিপদ দেখে অদূরদর্শীর উপহাস",
+    "sentence": "প্রতিবেশীর বাড়িতে আগুন দেখে উল্লাস করছ? মনে রেখো, ঘুঁটে পোড়ে গোবর হাসে।",
+    "category": "বুদ্ধিমত্তা ও নীতি",
+    "english_equivalent": "The foolish laugh when the wise fall, forgetting their own turn comes next",
+    "tags": [
+      "wisdom",
+      "warning"
+    ]
+  },
+  {
+    "id": "idm_034",
+    "phrase": "চোখের বালি",
+    "meaning": "অপ্রিয় বা চক্ষুশূল ব্যক্তি",
+    "sentence": "সততার কারণে সৎ অফিসারটি অসৎ সহকর্মীদের কাছে চোখের বালি হয়ে দাঁড়িয়েছেন।",
+    "category": "দ্বন্দ্ব ও শত্রুতা",
+    "english_equivalent": "An eyesore / an object of bitter dislike",
+    "tags": [
+      "enemy",
+      "bcs",
+      "literature"
+    ]
+  },
+  {
+    "id": "idm_035",
+    "phrase": "চোখের পর্দা",
+    "meaning": "লজ্জা বা শালীনতাবোধ",
+    "sentence": "যার চোখের পর্দা নেই, সে যে কোনো জঘন্য কাজ করতে দ্বিধা করে না।",
+    "category": "নৈতিকতা ও শিষ্টাচার",
+    "english_equivalent": "Sense of shame / modesty",
+    "tags": [
+      "modesty",
+      "character"
+    ]
+  },
+  {
+    "id": "idm_036",
+    "phrase": "চক্ষুদান করা",
+    "meaning": "চুরি করা",
+    "sentence": "মেলা প্রাঙ্গণ থেকে চোরটি কখন যেন আমার মানিব্যাগটা চক্ষুদান করে দিল।",
+    "category": "অপরাধ ও চৌর্যবৃত্তি",
+    "english_equivalent": "To pilfer / steal stealthily",
+    "tags": [
+      "theft",
+      "humor",
+      "bcs"
+    ]
+  },
+  {
+    "id": "idm_037",
+    "phrase": "চিনে জোঁক",
+    "meaning": "নাছোড়বান্দা ব্যক্তি",
+    "sentence": "চাঁদাবাজটা চিনে জোঁকের মতো লেগে থেকে অবশেষে টাকাটা আদায় করল।",
+    "category": "মানবচরিত্র",
+    "english_equivalent": "Persistent leech / relentless bore",
+    "tags": [
+      "persistence",
+      "popular",
+      "bcs"
+    ]
+  },
+  {
+    "id": "idm_038",
+    "phrase": "ছাপোষা",
+    "meaning": "অত্যন্ত সাধারণ ও নিরীহ সংসারী ব্যক্তি",
+    "sentence": "আমরা ছাপোষা মধ্যবিত্ত মানুষ, এত বড় রাজনৈতিক মারপ্যাঁচ বুঝি না।",
+    "category": "সমাজ ও পরিবার",
+    "english_equivalent": "Humble family man / ordinary commoner burdened with family",
+    "tags": [
+      "family",
+      "commoner"
+    ]
+  },
+  {
+    "id": "idm_039",
+    "phrase": "ছেলের হাতের মোয়া",
+    "meaning": "সহজলভ্য বা অতি তুচ্ছ বস্তু",
+    "sentence": "বিসিএস ক্যাডার হওয়া তো ছেলের হাতের মোয়া নয় যে চাইলেই পাওয়া যাবে।",
+    "category": "অসম্ভাব্যতা ও শ্রম",
+    "english_equivalent": "Child's play / easily available object",
+    "tags": [
+      "easy",
+      "bcs",
+      "exam"
+    ]
+  },
+  {
+    "id": "idm_040",
+    "phrase": "জলে চুন তাজা",
+    "meaning": "ক্ষণস্থায়ী উন্নতি",
+    "sentence": "সুদের টাকায় তার এই ধনদৌলত তো জলে চুন তাজা হওয়ার মতোই।",
+    "category": "ভাগ্য ও সম্পদ",
+    "english_equivalent": "Short-lived prosperity / transient flare",
+    "tags": [
+      "transient",
+      "wealth"
+    ]
+  },
+  {
+    "id": "idm_041",
+    "phrase": "ঝাকের কই",
+    "meaning": "একই দলভুক্ত বা একই স্বভাবের মানুষ",
+    "sentence": "ওদের মধ্যে কোনো পার্থক্য নেই, ওরা সবাই একই ঝাঁকের কই।",
+    "category": "সমাজ ও স্বভাব",
+    "english_equivalent": "Birds of a feather / of the same ilk",
+    "tags": [
+      "group",
+      "popular"
+    ]
+  },
+  {
+    "id": "idm_042",
+    "phrase": "টাকার গরম",
+    "meaning": "ধনের অহংকার",
+    "sentence": "টাকার গরম বেশিদিন টেকে না, একদিন সব অহংকার ধুলোয় মিশে যায়।",
+    "category": "মানবচরিত্র",
+    "english_equivalent": "Pride of purse / purse-proud arrogance",
+    "tags": [
+      "pride",
+      "wealth"
+    ]
+  },
+  {
+    "id": "idm_043",
+    "phrase": "টুপভুজঙ্গ",
+    "meaning": "নেশায় মাতাল বা অতিশয় মদ্যপ",
+    "sentence": "লোকটা সারা রাত টুপভুজঙ্গ হয়ে রাস্তার পাশে পড়েছিল।",
+    "category": "পতন ও নৈতিকতা",
+    "english_equivalent": "Dead drunk / heavily intoxicated",
+    "tags": [
+      "drunk",
+      "bcs"
+    ]
+  },
+  {
+    "id": "idm_044",
+    "phrase": "ঠাঁট বজায় রাখা",
+    "meaning": "অভাব সত্ত্বেও আভিজাত্য বা মর্যাদা দেখানো",
+    "sentence": "সম্পদ হারালেও জমিদার পরিবারটি এখনও সমাজে নিজেদের ঠাঁট বজায় রেখে চলেছে।",
+    "category": "মর্যাদা ও সমাজ",
+    "english_equivalent": "Keeping up appearances / sustaining dignity despite distress",
+    "tags": [
+      "dignity",
+      "pride"
+    ]
+  },
+  {
+    "id": "idm_045",
+    "phrase": "ডুমুরের ফুল",
+    "meaning": "দুর্লভ দর্শন ব্যক্তি বা বস্তু",
+    "sentence": "বন্ধু তুমি তো ডুমুরের ফুল হয়ে গেলে, কয়েকমাসে একবারও ফোন করো না।",
+    "category": "অসম্ভাব্যতা ও দুর্লভতা",
+    "english_equivalent": "Rare visitor / an unseen wonder",
+    "tags": [
+      "rare",
+      "popular",
+      "bcs"
+    ]
+  },
+  {
+    "id": "idm_046",
+    "phrase": "ডানহাতের ব্যাপার",
+    "meaning": "ভোজন বা আহার করা",
+    "sentence": "আগে ডানহাতের ব্যাপারটা সেরে নিই, তারপর কাজের কথা বলব।",
+    "category": "দৈনন্দিন জীবন",
+    "english_equivalent": "Act of eating / taking a meal",
+    "tags": [
+      "food",
+      "humor"
+    ]
+  },
+  {
+    "id": "idm_047",
+    "phrase": "ঢাকের কাঠি",
+    "meaning": "তোষামোদকারী বা চাটুকার",
+    "sentence": "চেয়ারম্যানের ঢাকের কাঠি হয়ে থাকলে কোনো সম্মান পাওয়া যাবে না।",
+    "category": "প্রতারণা ও কপটতা",
+    "english_equivalent": "Flatterer / sycophantic henchman",
+    "tags": [
+      "flattery",
+      "bcs",
+      "exam"
+    ]
+  },
+  {
+    "id": "idm_048",
+    "phrase": "ঢাকের বাঁয়া",
+    "meaning": "অপ্রয়োজনীয় বা গুরুত্বহীন ব্যক্তি",
+    "sentence": "কমিটির বৈঠকে আমাকে ডাকা হলেও মত নেওয়া হয় না, আমি যেন ঢাকের বাঁয়া।",
+    "category": "মানবচরিত্র",
+    "english_equivalent": "A useless appendage / fifth wheel of a coach",
+    "tags": [
+      "useless",
+      "bcs"
+    ]
+  },
+  {
+    "id": "idm_049",
+    "phrase": "তাসের ঘর",
+    "meaning": "ক্ষণভঙ্গুর বস্তু বা ব্যবস্থা",
+    "sentence": "অনিয়মের ওপর গড়ে ওঠা সাম্রাজ্য তাসের ঘরের মতো এক নিমেষেই ভেঙে পড়ল।",
+    "category": "পতন ও ভঙ্গুরতা",
+    "english_equivalent": "House of cards / fragile setup",
+    "tags": [
+      "fragile",
+      "popular",
+      "bcs"
+    ]
+  },
+  {
+    "id": "idm_050",
+    "phrase": "তুলসী বনের বাঘ",
+    "meaning": "ভণ্ড বা ছদ্মবেশী সাধু",
+    "sentence": "তাকে পরহেজগার মনে করে ঠকবেন না, সে আসলে তুলসী বনের বাঘ।",
+    "category": "প্রতারণা ও কপটতা",
+    "english_equivalent": "A wolf in sheep's clothing / hypocrite",
+    "tags": [
+      "hypocrite",
+      "character",
+      "bcs"
+    ]
+  },
+  {
+    "id": "idm_051",
+    "phrase": "তীর্থের কাক",
+    "meaning": "ব্যাকুল ও প্রতীক্ষারত প্রার্থী",
+    "sentence": "নিয়োগ পরীক্ষার ফলাফলের জন্য প্রার্থীরা তীর্থের কাকের মতো অপেক্ষা করছে।",
+    "category": "আকাঙ্ক্ষা ও প্রতীক্ষা",
+    "english_equivalent": "Patiently expectant applicant / waiting with bated breath",
+    "tags": [
+      "waiting",
+      "exam",
+      "bcs"
+    ]
+  },
+  {
+    "id": "idm_052",
+    "phrase": "দহরম মহরম",
+    "meaning": "ঘনিষ্ঠ সম্পর্ক বা সৌহার্দ্য",
+    "sentence": "দুই প্রতিদ্বন্দ্বী নেতার এমন দহরম মহরম দেখে কর্মীরা বিস্মিত হলো।",
+    "category": "সৌভাগ্য ও সুসম্পর্ক",
+    "english_equivalent": "Intimate cordiality / hand in glove relationship",
+    "tags": [
+      "friendship",
+      "politics"
+    ]
+  },
+  {
+    "id": "idm_053",
+    "phrase": "দিনের আলোয় ডাকাতি",
+    "meaning": "প্রকাশ্যে নির্লজ্জ জালিয়াতি বা লুণ্ঠন",
+    "sentence": "বাজারে পণ্যের এমন দ্বিগুণ দাম রাখা তো দিনের আলোয় ডাকাতি ছাড়া কিছুই নয়।",
+    "category": "অন্যায় ও অপরাধ",
+    "english_equivalent": "Broad daylight robbery / blatant extortion",
+    "tags": [
+      "crime",
+      "market"
+    ]
+  },
+  {
+    "id": "idm_054",
+    "phrase": "দুধে ভাতে থাকা",
+    "meaning": "সুখে শান্তিতে থাকা",
+    "sentence": "ঈশ্বরী পাটনী দেবীর কাছে প্রার্থনা করেছিলেন: 'আমার সন্তান যেন থাকে দুধে ভাতে'।",
+    "category": "সৌভাগ্য ও শান্তি",
+    "english_equivalent": "Live in comfort and affluence / peaceful well-being",
+    "tags": [
+      "peace",
+      "literature",
+      "bcs"
+    ]
+  },
+  {
+    "id": "idm_055",
+    "phrase": "ধরাকে সরা জ্ঞান করা",
+    "meaning": "অহংকারে সকলকে তুচ্ছ মনে করা",
+    "sentence": "টাকার গরমে যারা ধরাকে সরা জ্ঞান করে, তাদের পতন অনিবার্য।",
+    "category": "মানবচরিত্র",
+    "english_equivalent": "Think the world at one's feet / look down upon everything",
+    "tags": [
+      "arrogance",
+      "pride",
+      "bcs"
+    ]
+  },
+  {
+    "id": "idm_056",
+    "phrase": "ধরি মাছ না ছুঁই পানি",
+    "meaning": "কৌশলে নিজের দায়িত্ব এড়িয়ে কাজ উদ্ধার",
+    "sentence": "সে সবসময় ধরি মাছ না ছুঁই পানি কৌশলে কাজ হাসিল করতে পছন্দ করে।",
+    "category": "কৌশল ও চাতুর্য",
+    "english_equivalent": "To fish without wetting fingers / cunning diplomacy",
+    "tags": [
+      "clever",
+      "cunning",
+      "popular"
+    ]
+  },
+  {
+    "id": "idm_057",
+    "phrase": "নদের চাঁদ",
+    "meaning": "অকেজো কিন্তু সুদর্শন ব্যক্তি",
+    "sentence": "চেহারা ভালো হলেও কাজের বেলায় সে একেবারে নদের চাঁদ।",
+    "category": "মানবচরিত্র",
+    "english_equivalent": "A handsome but worthless fop / dandy",
+    "tags": [
+      "appearance",
+      "bcs"
+    ]
+  },
+  {
+    "id": "idm_058",
+    "phrase": "নয়ছয় করা",
+    "meaning": "অপচয় বা তছরুপ করা",
+    "sentence": "বাবার অর্জিত সম্পত্তি নয়ছয় করে শেষ পর্যন্ত তাকে পথে বসতে হলো।",
+    "category": "সম্পদ ও অর্থ",
+    "english_equivalent": "Squander / play ducks and drakes with money",
+    "tags": [
+      "waste",
+      "money",
+      "popular"
+    ]
+  },
+  {
+    "id": "idm_059",
+    "phrase": "পাথরে পাঁচ কিল",
+    "meaning": "সৌভাগ্যের চূড়ান্ত পরাকাষ্ঠা",
+    "sentence": "ব্যবসায় অপ্রত্যাশিত লাভ এবং সন্তানের সাফল্য—তার জীবনে এখন পাথরে পাঁচ কিল।",
+    "category": "সৌভাগ্য ও সুসম্পর্ক",
+    "english_equivalent": "Summit of good fortune / lucky streak",
+    "tags": [
+      "luck",
+      "bcs",
+      "exam"
+    ]
+  },
+  {
+    "id": "idm_060",
+    "phrase": "পাকা ধানে মই দেওয়া",
+    "meaning": "সর্বনাশ করা বা শেষ মুহূর্তে ক্ষতিসাধন",
+    "sentence": "চাকরির চূড়ান্ত তালিকা থেকে নাম কেটে সে আমার পাকা ধানে মই দিল।",
+    "category": "ক্ষতি ও শত্রুতা",
+    "english_equivalent": "Ruin one's prospects at the eleventh hour / strike a fatal blow",
+    "tags": [
+      "harm",
+      "popular",
+      "bcs"
+    ]
+  },
+  {
+    "id": "idm_061",
+    "phrase": "পুকুর চুরি",
+    "meaning": "বড় ধরনের দুর্নীতি বা প্রকাশ্য লুণ্ঠন",
+    "sentence": "উন্নয়ন প্রকল্পের বরাদ্দ অর্ধেক মেরে দিয়ে কর্মকর্তারা পুকুর চুরি করেছেন।",
+    "category": "অন্যায় ও অপরাধ",
+    "english_equivalent": "Grand embezzlement / brazen wholesale swindle",
+    "tags": [
+      "corruption",
+      "crime",
+      "popular"
+    ]
+  },
+  {
+    "id": "idm_062",
+    "phrase": "ফপর দালালি",
+    "meaning": "গায়ে পড়ে অনধিকার চর্চা করা",
+    "sentence": "আমাদের পারিবারিক বিষয়ে তোমার এই ফপর দালালি বন্ধ করো।",
+    "category": "আচরণ ও শিষ্টাচার",
+    "english_equivalent": "Meddlesome busybody interference / unsolicited advising",
+    "tags": [
+      "interference",
+      "popular"
+    ]
+  },
+  {
+    "id": "idm_063",
+    "phrase": "বক ধার্মিক",
+    "meaning": "কপট সাধু / ভণ্ড ধার্মিক",
+    "sentence": "বক ধার্মিক মানুষের মিষ্টি কথায় বিশ্বাস করে অনেকেই সর্বস্বান্ত হয়।",
+    "category": "প্রতারণা ও কপটতা",
+    "english_equivalent": "Hypocritical pietist / sanctimonious humbug",
+    "tags": [
+      "hypocrite",
+      "religion",
+      "bcs"
+    ]
+  },
+  {
+    "id": "idm_064",
+    "phrase": "বিড়াল তপস্বী",
+    "meaning": "ছদ্মবেশী সাধু বা ভণ্ড তপস্বী",
+    "sentence": "বিড়াল তপস্বী সেজে সমাজে সম্মান পাওয়া যায়, কিন্তু বিবেককে ফাঁকি দেওয়া যায় না।",
+    "category": "প্রতারণা ও কপটতা",
+    "english_equivalent": "Hypocritical ascetic / fraudulent holy man",
+    "tags": [
+      "hypocrite",
+      "bcs",
+      "exam"
+    ]
+  },
+  {
+    "id": "idm_065",
+    "phrase": "বালির বাঁধ",
+    "meaning": "অস্থায়ী বা ক্ষণভঙ্গুর ব্যবস্থা",
+    "sentence": "সততাহীন প্রতিষ্ঠান বালির বাঁধের মতোই যেকোনো বিপদে ভেঙে পড়ে।",
+    "category": "পতন ও ভঙ্গুরতা",
+    "english_equivalent": "Rope of sand / frail defence",
+    "tags": [
+      "fragile",
+      "bcs"
+    ]
+  },
+  {
+    "id": "idm_066",
+    "phrase": "বিনা মেঘে বজ্রপাত",
+    "meaning": "আকস্মিক চরম বিপর্যয়",
+    "sentence": "সুস্থ মানুষটির হঠাৎ হার্ট অ্যাটাকের খবর পরিবারের কাছে বিনা মেঘে বজ্রপাতের মতো এলো।",
+    "category": "বিপদ ও সংকট",
+    "english_equivalent": "A bolt from the blue / sudden unexpected shock",
+    "tags": [
+      "shock",
+      "sudden",
+      "popular"
+    ]
+  },
+  {
+    "id": "idm_067",
+    "phrase": "ভস্মে ঘি ঢালা",
+    "meaning": "অযোগ্য পাত্রে দান বা পণ্ডশ্রম",
+    "sentence": "অলস ছেলেকে লাখ টাকা ব্যবসা করতে দেওয়া ভস্মে ঘি ঢালার নামান্তর।",
+    "category": "অপচয় ও পণ্ডশ্রম",
+    "english_equivalent": "Cast pearls before swine / futile squandering of effort",
+    "tags": [
+      "futile",
+      "waste",
+      "bcs"
+    ]
+  },
+  {
+    "id": "idm_068",
+    "phrase": "ভিজে বেড়াল",
+    "meaning": "কপট নিরীহ ব্যক্তি",
+    "sentence": "বাইরে দেখে মনে হয় ভিজে বেড়াল, ভেতরে ভেতরে সে কত বড় কূটচাল জানে!",
+    "category": "প্রতারণা ও কপটতা",
+    "english_equivalent": "Shy sly fellow / hypocritically meek person",
+    "tags": [
+      "cunning",
+      "bcs",
+      "popular"
+    ]
+  },
+  {
+    "id": "idm_069",
+    "phrase": "ভূতের বাপের শ্রাদ্ধ",
+    "meaning": "অর্থহীন অপব্যয়",
+    "sentence": "লোক দেখানো অনুষ্ঠানে এত টাকা খরচ করা যেন ভূতের বাপের শ্রাদ্ধ।",
+    "category": "সম্পদ ও অর্থ",
+    "english_equivalent": "Reckless squandering / lavish waste for nonsense",
+    "tags": [
+      "waste",
+      "bcs"
+    ]
+  },
+  {
+    "id": "idm_070",
+    "phrase": "মগের মুল্লুক",
+    "meaning": "আইনহীন বা অরাজক দেশ",
+    "sentence": "যা ইচ্ছে তাই করবেন না, এটা কোনো মগের মুল্লুক নয় যে বিচার হবে না।",
+    "category": "আইন ও শাসন",
+    "english_equivalent": "Lawless land / realm of anarchy",
+    "tags": [
+      "anarchy",
+      "history",
+      "popular"
+    ]
+  },
+  {
+    "id": "idm_071",
+    "phrase": "মণিকাঞ্চন যোগ",
+    "meaning": "উপযুক্ত মিলন বা চমৎকার সমন্বয়",
+    "sentence": "মেধাবী পাত্রের সঙ্গে বিদূষী পাত্রীর বিয়ে যেন মণিকাঞ্চন যোগ।",
+    "category": "সৌভাগ্য ও সুসম্পর্ক",
+    "english_equivalent": "Golden alliance / auspicious union of matched qualities",
+    "tags": [
+      "marriage",
+      "harmony",
+      "bcs"
+    ]
+  },
+  {
+    "id": "idm_072",
+    "phrase": "মুখে মধু অন্তরে বিষ",
+    "meaning": "বাইরে সখ্য কিন্তু ভেতরে শত্রুভাবাপন্ন",
+    "sentence": "মুখে মধু অন্তরে বিষ এমন লোকদের থেকে সর্বদা সতর্ক থাকা শ্রেয়।",
+    "category": "প্রতারণা ও কপটতা",
+    "english_equivalent": "Honey on tongue, venom in heart / two-faced deceit",
+    "tags": [
+      "hypocrisy",
+      "friendship"
+    ]
+  },
+  {
+    "id": "idm_073",
+    "phrase": "যক্ষের ধন",
+    "meaning": "কৃপণের অতি আদরের সম্পদ",
+    "sentence": "বুড়ো তার সঞ্চিত স্বর্ণমুদ্রাগুলোকে যক্ষের ধনের মতো আগলে রেখেছে।",
+    "category": "সম্পদ ও অর্থ",
+    "english_equivalent": "Miser's hoarded treasure / dearly guarded wealth",
+    "tags": [
+      "miser",
+      "wealth",
+      "bcs"
+    ]
+  },
+  {
+    "id": "idm_074",
+    "phrase": "রাবণের চিতা",
+    "meaning": "চিরন্তন বা অবিরত অশান্তি",
+    "sentence": "সম্পত্তি নিয়ে পারিবারিক কলহ যেন রাবণের চিতা হয়ে জ্বলছে।",
+    "category": "বিপদ ও সংকট",
+    "english_equivalent": "Incessant torment / perpetual fire of agony",
+    "tags": [
+      "conflict",
+      "mythology",
+      "bcs"
+    ]
+  },
+  {
+    "id": "idm_075",
+    "phrase": "শাকের করাত",
+    "meaning": "উভয় সংকট / যা যেতেও কাটে আসতেও কাটে",
+    "sentence": "সাক্ষ্য দিলে আত্মীয় নারাজ, না দিলে জেল—এ যেন শাকের করাতের মুখে পড়া।",
+    "category": "বিপদ ও সংকট",
+    "english_equivalent": "Catch-22 situation / double-edged predicament",
+    "tags": [
+      "dilemma",
+      "bcs",
+      "exam"
+    ]
+  },
+  {
+    "id": "idm_076",
+    "phrase": "শাক দিয়ে মাছ ঢাকা",
+    "meaning": "স্পষ্ট অপরাধ আড়াল করার অপচেষ্টা",
+    "sentence": "এত বড় আর্থিক দুর্নীতি শাক দিয়ে মাছ ঢেকে লুকানো যাবে না।",
+    "category": "প্রতারণা ও সত্য",
+    "english_equivalent": "Clumsy attempt to hide gross guilt / paper over cracks",
+    "tags": [
+      "deception",
+      "crime",
+      "popular"
+    ]
+  },
+  {
+    "id": "idm_077",
+    "phrase": "শিবরাত্রির সলতে",
+    "meaning": "একমাত্র বংশধর বা শেষ অবলম্বন",
+    "sentence": "বৃদ্ধ দম্পতির একমাত্র ছেলেটি ছিল তাদের শিবরাত্রির সলতে।",
+    "category": "পরিবার ও স্নেহ",
+    "english_equivalent": "Sole surviving offspring / single hope of a lineage",
+    "tags": [
+      "family",
+      "child",
+      "bcs"
+    ]
+  },
+  {
+    "id": "idm_078",
+    "phrase": "সোনায় সোহাগা",
+    "meaning": "চমৎকার মিল বা সুযোগের বৃদ্ধি",
+    "sentence": "ভালো বেতনের সাথে বিদেশে ভ্রমণের সুযোগ—এ তো সোনায় সোহাগা! ",
+    "category": "সৌভাগ্য ও সুসম্পর্ক",
+    "english_equivalent": "Icing on the cake / happy coincidence",
+    "tags": [
+      "opportunity",
+      "luck",
+      "popular"
+    ]
+  },
+  {
+    "id": "idm_079",
+    "phrase": "হাটে হাঁড়ি ভাঙা",
+    "meaning": "গোপন রহস্য জনসমক্ষে ফাঁস করে দেওয়া",
+    "sentence": "দুর্নীতিবাজদের সব গোপন নথি ফাঁস করে সাংবাদিক হাটে হাঁড়ি ভেঙে দিলেন।",
+    "category": "রহস্য ও সত্য",
+    "english_equivalent": "Spill the beans / wash dirty linen in public",
+    "tags": [
+      "secret",
+      "truth",
+      "popular"
+    ]
+  },
+  {
+    "id": "idm_080",
+    "phrase": "হাতের পাঁচ",
+    "meaning": "শেষ অবলম্বন বা সম্বল",
+    "sentence": "জমিটুকু বিক্রি করে দিলে হাতের পাঁচ আর কিছুই থাকবে না।",
+    "category": "সম্পদ ও অর্থ",
+    "english_equivalent": "Last resource / ace in the hole / reserve anchor",
+    "tags": [
+      "survival",
+      "money",
+      "bcs"
+    ]
+  },
+  {
+    "id": "idm_081",
+    "phrase": "অদৃষ্টের পরিহাস",
+    "meaning": "ভাগ্যের নির্মম খেলা",
+    "sentence": "যে ডাক্তার হাজারো রোগীর প্রাণ বাঁচিয়েছেন, অদৃষ্টের পরিহাসে তিনি বিনা চিকিৎসায় মারা গেলেন।",
+    "category": "ভাগ্য ও অদৃষ্ট",
+    "english_equivalent": "Irony of fate / cruel twist of fortune",
+    "tags": [
+      "destiny",
+      "tragedy"
+    ]
+  },
+  {
+    "id": "idm_082",
+    "phrase": "অগ্নিশর্মা হওয়া",
+    "meaning": "অত্যন্ত রাগান্বিত হওয়া",
+    "sentence": "অফিসের জরুরি ফাইল হারানোর খবর শুনে বস একেবারে অগ্নিশর্মা হয়ে উঠলেন।",
+    "category": "মনস্তত্ত্ব ও অনুভূতি",
+    "english_equivalent": "Fly into a rage / furious wrath",
+    "tags": [
+      "anger",
+      "emotion"
+    ]
+  },
+  {
+    "id": "idm_083",
+    "phrase": "অক্ষয় বট",
+    "meaning": "চিরস্থায়ী প্রবীণ ব্যক্তিত্ব",
+    "sentence": "আমাদের পরিবারের বড় চাচা ছিলেন এক পরম আশ্রয়স্থল, এক অক্ষয় বট।",
+    "category": "মানবচরিত্র",
+    "english_equivalent": "Venerable patriarch / eternal shade of shelter",
+    "tags": [
+      "respect",
+      "family"
+    ]
+  },
+  {
+    "id": "idm_084",
+    "phrase": "আঙ্গুল ফুলে কলাগাছ",
+    "meaning": "হঠাৎ অন্যায়ভাবে প্রভূত ধনসম্পদের মালিক হওয়া",
+    "sentence": "দুর্নীতির টাকায় রাতারাতি আঙ্গুল ফুলে কলাগাছ হওয়া অনেকেই আজ কারাগারে।",
+    "category": "সম্পদ ও অর্থ",
+    "english_equivalent": "Upstart / mushroom millionaire overnight",
+    "tags": [
+      "corruption",
+      "wealth",
+      "popular"
+    ]
+  },
+  {
+    "id": "idm_085",
+    "phrase": "আমড়াগাছির ঢেঁকি",
+    "meaning": "অকর্মণ্য ব্যক্তি",
+    "sentence": "তাকে দিয়ে কোনো গুরুত্বপূর্ণ কাজ হবে না, সে আমড়াগাছির ঢেঁকি।",
+    "category": "মূর্খতা ও অজ্ঞতা",
+    "english_equivalent": "Worthless fellow / completely ineffective person",
+    "tags": [
+      "useless",
+      "bcs"
+    ]
+  },
+  {
+    "id": "idm_086",
+    "phrase": "আমতা আমতা করা",
+    "meaning": "দ্বিধাগ্রস্ত হয়ে অস্পষ্ট কথা বলা",
+    "sentence": "সত্যিটা বলো, এত আমতা আমতা করছ কেন?",
+    "category": "ভাষা ও যোগাযোগ",
+    "english_equivalent": "To hem and haw / stammer in hesitation",
+    "tags": [
+      "hesitation",
+      "speech"
+    ]
+  },
+  {
+    "id": "idm_087",
+    "phrase": "আকাশে তোলা",
+    "meaning": "অতিরিক্ত প্রশংসা করে মাথায় তোলা",
+    "sentence": "চাটুকাররা তাকে অতিরিক্ত আকাশে তুলে অহংকারী করে দিল।",
+    "category": "প্রতারণা ও কপটতা",
+    "english_equivalent": "Praise to the skies / excessive adulation",
+    "tags": [
+      "flattery",
+      "praise"
+    ]
+  },
+  {
+    "id": "idm_088",
+    "phrase": "আঁতে ঘা লাগা",
+    "meaning": "মনে গভীর আঘাত বা লজ্জা পাওয়া",
+    "sentence": "অতীতের ভুলের কথা স্মরণ করিয়ে দিতেই লোকটার আঁতে ঘা লাগল।",
+    "category": "মনস্তত্ত্ব ও অনুভূতি",
+    "english_equivalent": "Cut to the quick / touch a sore spot",
+    "tags": [
+      "hurt",
+      "pride"
+    ]
+  },
+  {
+    "id": "idm_089",
+    "phrase": "ইঁচড়ে পাকা",
+    "meaning": "বয়সের তুলনায় বেশি ধৃষ্ট বা অকালপক্ব",
+    "sentence": "বড়দের কথায় এমন ইঁচড়ে পাকা কথা বলা মোটেও শোভন নয়।",
+    "category": "মানবচরিত্র",
+    "english_equivalent": "Precocious in a rude sense / forward youth",
+    "tags": [
+      "behavior",
+      "youth"
+    ]
+  },
+  {
+    "id": "idm_090",
+    "phrase": "উড়নচণ্ডী",
+    "meaning": "অমিতব্যয়ী বা উড়নধারি স্বভাবের লোক",
+    "sentence": "উড়নচণ্ডী স্বভাবের মানুষের হাতে কোটি টাকা এলেও কোনোদিন সঞ্চয় হয় না।",
+    "category": "সম্পদ ও অর্থ",
+    "english_equivalent": "Spendthrift / prodigal wastrel",
+    "tags": [
+      "spendthrift",
+      "money",
+      "bcs"
+    ]
+  },
+  {
+    "id": "idm_091",
+    "phrase": "উলুবনে মুক্তো ছড়ানো",
+    "meaning": "অযোগ্য পাত্রে মূল্যবান উপদেশ দেওয়া",
+    "sentence": "জ্ঞানহীনদের সামনে নীতিবাক্য শোনানো উলুবনে মুক্তো ছড়ানোর সমান।",
+    "category": "অপচয় ও পণ্ডশ্রম",
+    "english_equivalent": "Cast pearls before swine",
+    "tags": [
+      "wisdom",
+      "popular",
+      "bcs"
+    ]
+  },
+  {
+    "id": "idm_092",
+    "phrase": "উৎসন্নে যাওয়া",
+    "meaning": "নষ্ট বা অধঃপতিত হওয়া",
+    "sentence": "নিয়মশৃঙ্খলা না মানলে যুবসমাজ উৎসন্নে যাবে।",
+    "category": "পতন ও নৈতিকতা",
+    "english_equivalent": "Go to ruin / degenerate completely",
+    "tags": [
+      "decline",
+      "society"
+    ]
+  },
+  {
+    "id": "idm_093",
+    "phrase": "এক মাঘে শীত যায় না",
+    "meaning": "বিপদ একবার এসে শেষ হয় না / সতর্কবার্তা",
+    "sentence": "আজ আমাকে বিপদে ফেলে হাসছ? মনে রেখো, এক মাঘে শীত যায় না।",
+    "category": "বিপদ ও সংকট",
+    "english_equivalent": "One swallow does not make a summer / danger may recur",
+    "tags": [
+      "warning",
+      "popular"
+    ]
+  },
+  {
+    "id": "idm_094",
+    "phrase": "এঁড়ে তর্কে নামা",
+    "meaning": "অহেতুক গোঁয়ার্তুমিপূর্ণ বিতর্ক",
+    "sentence": "যুক্তিতর্ক ছেড়ে এঁড়ে তর্কে নেমে আলোচনা নষ্ট করা অর্থহীন।",
+    "category": "ভাষা ও যোগাযোগ",
+    "english_equivalent": "Pigheaded irrational arguing / obstinate squabbling",
+    "tags": [
+      "argument",
+      "obstinacy"
+    ]
+  },
+  {
+    "id": "idm_095",
+    "phrase": "কপাল ফেরা",
+    "meaning": "সৌভাগ্য ফিরে আসা",
+    "sentence": "বিদেশে চাকরি পাওয়ার পর থেকে ছেলেটির পরিবারের কপাল ফিরেছে।",
+    "category": "সৌভাগ্য ও সুসম্পর্ক",
+    "english_equivalent": "Turn of good fortune / prosperity returns",
+    "tags": [
+      "luck",
+      "prosperity"
+    ]
+  },
+  {
+    "id": "idm_096",
+    "phrase": "কলমের জোর",
+    "meaning": "লেখনীর অতুলনীয় শক্তি",
+    "sentence": "বন্দুকের নলের চেয়েও কলমের জোর অনেক সময় সমাজে বড় বিপ্লব ঘটায়।",
+    "category": "শিক্ষা ও সাহিত্য",
+    "english_equivalent": "Power of the pen",
+    "tags": [
+      "writing",
+      "journalism",
+      "power"
+    ]
+  },
+  {
+    "id": "idm_097",
+    "phrase": "কান পাতলা",
+    "meaning": "সহজেই অন্যের কথায় কান দেয় এমন",
+    "sentence": "নেতা কান পাতলা হলে প্রতিষ্ঠানে কুচক্রীদের রমরমা অবস্থা তৈরি হয়।",
+    "category": "মানবচরিত্র",
+    "english_equivalent": "Credulous / easily gullible listener",
+    "tags": [
+      "gullible",
+      "character",
+      "bcs"
+    ]
+  },
+  {
+    "id": "idm_098",
+    "phrase": "কান ভারী করা",
+    "meaning": "কারো বিরুদ্ধে কুৎসা রটিয়ে প্ররোচিত করা",
+    "sentence": "অন্যের নামে কান ভারী করার অভ্যাস ত্যাগ করা উচিত।",
+    "category": "প্রতারণা ও শত্রুতা",
+    "english_equivalent": "Poison someone's ears against another",
+    "tags": [
+      "gossip",
+      "deceit"
+    ]
+  },
+  {
+    "id": "idm_099",
+    "phrase": "কালনেমির লঙ্কাভাগ",
+    "meaning": "কাজ সম্পন্ন হওয়ার আগেই কল্পিত ভোগের ভাগবাটোয়ারা",
+    "sentence": "চাকরি পাওয়ার আগেই বেতন কীভাবে ওড়াবে তার পরিকল্পনা—এ তো কালনেমির লঙ্কাভাগ! ",
+    "category": "অসম্ভাব্যতা ও শ্রম",
+    "english_equivalent": "Counting chickens before they hatch / dividing spoils before victory",
+    "tags": [
+      "premature",
+      "folly",
+      "bcs"
+    ]
+  },
+  {
+    "id": "idm_100",
+    "phrase": "পালের গোদা",
+    "meaning": "কুচক্রী বা দলনেতা",
+    "sentence": "চুরি ও ডাকাতির ঘটনার মূল পালের গোদাকে পুলিশ হাতেনাতে গ্রেপ্তার করেছে।",
+    "category": "অপরাধ ও চৌর্যবৃত্তি",
+    "english_equivalent": "Ring-leader / chief culprit",
+    "tags": [
+      "crime",
+      "bcs"
+    ]
+  },
+  {
+    "id": "idm_101",
+    "phrase": "আকাশে তোলা",
+    "meaning": "অতিরিক্ত প্রশংসা করা",
+    "sentence": "তোষামোদকারীরা তাকে আকাশে তুলে অবশেষে বিপদে ফেলে দিল।",
+    "category": "প্রতারণা ও কপটতা",
+    "english_equivalent": "Praise to the skies",
+    "tags": [
+      "flattery",
+      "praise"
+    ]
+  },
+  {
+    "id": "idm_102",
+    "phrase": "উড়ো চিঠি",
+    "meaning": "বেনামী বা প্রেরকহীন চিঠি",
+    "sentence": "এমন ভিত্তিহীন উড়ো চিঠির ওপর ভিত্তি করে কোনো সিদ্ধান্ত নেওয়া অনুচিত।",
+    "category": "যোগাযোগ ও তথ্য",
+    "english_equivalent": "Anonymous letter",
+    "tags": [
+      "letter",
+      "mystery"
+    ]
+  },
+  {
+    "id": "idm_103",
+    "phrase": "এক হাঁড়িতে ভাত না খাওয়া",
+    "meaning": "মনোমালিন্য বা পৃথক হওয়া",
+    "sentence": "পৈতৃক সম্পত্তি ভাগাভাগির পর থেকে দুই ভাই আর এক হাঁড়িতে ভাত খায় না।",
+    "category": "দ্বন্দ্ব ও শত্রুতা",
+    "english_equivalent": "Parting ways / living separately in discord",
+    "tags": [
+      "family",
+      "discord"
+    ]
+  },
+  {
+    "id": "idm_104",
+    "phrase": "ওলটপালট হওয়া",
+    "meaning": "আমূল পরিবর্তন বা বিপর্যয় ঘটা",
+    "sentence": "ঘূর্ণিঝড়ের আঘাতে উপকূলের জনজীবন ওলটপালট হয়ে গেছে।",
+    "category": "বিপদ ও সংকট",
+    "english_equivalent": "Topsy-turvy / total disruption",
+    "tags": [
+      "disaster",
+      "change"
+    ]
+  },
+  {
+    "id": "idm_105",
+    "phrase": "কাকের ডাক",
+    "meaning": "ভোরবেলা বা অতি প্রত্যূষে",
+    "sentence": "কাকের ডাক থেকেই কৃষক জমিতে লাঙল চালাতে শুরু করে।",
+    "category": "সময় ও প্রকৃতি",
+    "english_equivalent": "Early dawn / break of day",
+    "tags": [
+      "dawn",
+      "morning"
+    ]
+  },
+  {
+    "id": "idm_106",
+    "phrase": "কাটা ঘায়ে নুনের ছিটা",
+    "meaning": "দুঃখ বা কষ্টের ওপর আরও কষ্ট দেওয়া",
+    "sentence": "ব্যর্থতায় যখন মন ভেঙে গেছে, তখন তার কটূক্তি যেন কাটা ঘায়ে নুনের ছিটা দিল।",
+    "category": "ক্ষতি ও শত্রুতা",
+    "english_equivalent": "Add insult to injury / rub salt into a wound",
+    "tags": [
+      "pain",
+      "hurt",
+      "popular"
+    ]
+  },
+  {
+    "id": "idm_107",
+    "phrase": "কান ধরে ওঠবস করা",
+    "meaning": "চরম অপদস্থ হয়ে ক্ষমা চাওয়া",
+    "sentence": "ভুল স্বীকার করে সে কান ধরে ওঠবস করতেও রাজি হয়েছিল।",
+    "category": "অপরাধ ও বিচার",
+    "english_equivalent": "Eat humble pie / suffer humiliating penalty",
+    "tags": [
+      "shame",
+      "apology"
+    ]
+  },
+  {
+    "id": "idm_108",
+    "phrase": "কুমিরের কান্না",
+    "meaning": "কপট বা মিথ্যা শোক",
+    "sentence": "শত্রুপক্ষের এই কুমিরের কান্নায় আমরা বিভ্রান্ত হব না।",
+    "category": "প্রতারণা ও কপটতা",
+    "english_equivalent": "Crocodile tears",
+    "tags": [
+      "hypocrisy",
+      "falsehood",
+      "popular"
+    ]
+  },
+  {
+    "id": "idm_109",
+    "phrase": "খেরোর খাতা",
+    "meaning": "সাধারণ হিসাবের লাল শালুর বাঁধানো খাতা",
+    "sentence": "দোকানের পুরোনো খেরোর খাতা ঘেঁটে তিনি বকেয়ার হিসাব বের করলেন।",
+    "category": "বাণিজ্য ও দৈনন্দিন",
+    "english_equivalent": "Traditional ledger book",
+    "tags": [
+      "business",
+      "tradition"
+    ]
+  },
+  {
+    "id": "idm_110",
+    "phrase": "গলাকাটা",
+    "meaning": "অতিরিক্ত চড়া দাম রাখা বা শোষণ করা",
+    "sentence": "পর্যটন মৌসুমে হোটেলগুলো গলাকাটা ভাড়া আদায় করে।",
+    "category": "সম্পদ ও অর্থ",
+    "english_equivalent": "Cut-throat price / exorbitant extortion",
+    "tags": [
+      "price",
+      "extortion"
+    ]
+  },
+  {
+    "id": "idm_111",
+    "phrase": "ঘোড়া ডিঙিয়ে ঘাস খাওয়া",
+    "meaning": "মধ্যস্থতাকারীকে বা ঊর্ধ্বতন কর্তৃপক্ষকে উপেক্ষা করা",
+    "sentence": "সুপারভাইজারকে না জানিয়ে সরাসরি এমডির কাছে যাওয়া ঘোড়া ডিঙিয়ে ঘাস খাওয়ার মতো।",
+    "category": "আচরণ ও নীতি",
+    "english_equivalent": "Bypassing the immediate authority",
+    "tags": [
+      "protocol",
+      "office"
+    ]
+  },
+  {
+    "id": "idm_112",
+    "phrase": "চোখে সর্ষে ফুল দেখা",
+    "meaning": "বিপদে দিশেহারা হয়ে পড়া",
+    "sentence": "একসাথে মামলার সব নোটিশ পেয়ে ব্যবসায়ী চোখে সর্ষে ফুল দেখতে লাগলেন।",
+    "category": "বিপদ ও সংকট",
+    "english_equivalent": "See stars / bewildered in sudden danger",
+    "tags": [
+      "bewilderment",
+      "danger",
+      "popular"
+    ]
+  },
+  {
+    "id": "idm_113",
+    "phrase": "ছাপার ভূত",
+    "meaning": "মুদ্রণজনিত ভুলভ্রান্তি",
+    "sentence": "বইটিতে এত বেশি ছাপার ভূত যে বাক্যটির অর্থই বদলে গেছে।",
+    "category": "শিক্ষা ও সাহিত্য",
+    "english_equivalent": "Printer's devil / typographical errata",
+    "tags": [
+      "printing",
+      "book"
+    ]
+  },
+  {
+    "id": "idm_114",
+    "phrase": "ছেঁড়া কাথায় শুয়ে লাখ টাকার স্বপ্ন",
+    "meaning": "সামর্থ্যের তুলনায় মাত্রাতিরিক্ত উচ্চাকাঙ্ক্ষা",
+    "sentence": "কাজে কোনো মন নেই, অথচ ছেঁড়া কাথায় শুয়ে লাখ টাকার স্বপ্ন দেখছে।",
+    "category": "অসম্ভাব্যতা ও দুর্লভতা",
+    "english_equivalent": "Daydreaming far beyond one's means",
+    "tags": [
+      "dream",
+      "folly"
+    ]
+  },
+  {
+    "id": "idm_115",
+    "phrase": "জগাখিচুড়ি",
+    "meaning": "বিশৃঙ্খল বা গোলমেলে অবস্থা",
+    "sentence": "সব নিয়ম একসাথে চাপাতে গিয়ে অফিসটির কাজের অবস্থা জগাখিচুড়ি হয়ে পড়েছে।",
+    "category": "বিশৃঙ্খলা ও সংকট",
+    "english_equivalent": "Hotchpotch / chaotic muddle",
+    "tags": [
+      "chaos",
+      "popular"
+    ]
+  },
+  {
+    "id": "idm_116",
+    "phrase": "ডানপিটে",
+    "meaning": "ভয়ডরহীন দুরন্ত স্বভাবের",
+    "sentence": "গ্রামের ডানপিটে ছেলেদের নিয়ে সে সাঁতার কাটতে চলে গেল।",
+    "category": "মানবচরিত্র",
+    "english_equivalent": "Daredevil / reckless naughty youth",
+    "tags": [
+      "bold",
+      "youth"
+    ]
+  },
+  {
+    "id": "idm_117",
+    "phrase": "ঢিমে তেতালা",
+    "meaning": "অত্যন্ত মন্থর গতি বা ঢিলেঢালা ভাব",
+    "sentence": "ঢিমে তেতালা চালে কাজ করলে নির্দিষ্ট মেয়াদের মধ্যে ব্রিজ নির্মাণ সম্ভব নয়।",
+    "category": "আলস্য ও গতি",
+    "english_equivalent": "At a snail's pace / sluggish tempo",
+    "tags": [
+      "slow",
+      "sluggish"
+    ]
+  },
+  {
+    "id": "idm_118",
+    "phrase": "তামার বিষ",
+    "meaning": "অর্থের কুপ্রভাব বা খারাপ প্রভাব",
+    "sentence": "হঠাৎ বড়লোক হওয়ার পর তার ওপর তামার বিষ চড়েছে, কাউকেই মানুষ ভাবছে না।",
+    "category": "সম্পদ ও অর্থ",
+    "english_equivalent": "Corrupting venom of money",
+    "tags": [
+      "money",
+      "arrogance",
+      "bcs"
+    ]
+  },
+  {
+    "id": "idm_119",
+    "phrase": "তেল দেওয়া",
+    "meaning": "তোষামোদ করা বা অন্যায্য তোল্লাই দেওয়া",
+    "sentence": "যোগ্যতা না থাকলেও কেবল বসকে তেল দিয়ে সে পদোন্নতি পেল।",
+    "category": "প্রতারণা ও কপটতা",
+    "english_equivalent": "Flatter / butter up",
+    "tags": [
+      "flattery",
+      "popular"
+    ]
+  },
+  {
+    "id": "idm_120",
+    "phrase": "থ বনে যাওয়া",
+    "meaning": "বিস্ময়ে হতবাক বা স্তব্ধ হওয়া",
+    "sentence": "ভয়াবহ দৃশ্যটি দেখে উপস্থিত সবাই থ বনে গেল।",
+    "category": "মনস্তত্ত্ব ও অনুভূতি",
+    "english_equivalent": "Stunned into silence / flabbergasted",
+    "tags": [
+      "shock",
+      "wonder"
+    ]
+  },
+  {
+    "id": "idm_121",
+    "phrase": "দুধের মাছি",
+    "meaning": "সুসময়ের বন্ধু",
+    "sentence": "বিপদের সময় কাউকে পাশে পাওয়া গেল না, ওরা সবাই ছিল দুধের মাছি।",
+    "category": "প্রতারণা ও কপটতা",
+    "english_equivalent": "Fair-weather friend",
+    "tags": [
+      "friend",
+      "deceit",
+      "bcs"
+    ]
+  },
+  {
+    "id": "idm_122",
+    "phrase": "ধোপে টেকা",
+    "meaning": "যাচাই বা পরীক্ষায় উত্তীর্ণ হওয়া",
+    "sentence": "তার এই কাল্পনিক দাবি আদালতে জজের জেরার মুখে ধোপে টিকল না।",
+    "category": "সত্য ও পরীক্ষা",
+    "english_equivalent": "Stand the test / hold water",
+    "tags": [
+      "truth",
+      "popular"
+    ]
+  },
+  {
+    "id": "idm_123",
+    "phrase": "নুন আনতে পান্তা ফুরায়",
+    "meaning": "চরম দরিদ্রতা",
+    "sentence": "যার ঘরে নুন আনতে পান্তা ফুরায়, সে সন্তানদের বিলাসবহুল স্কুলে পড়াবে কীভাবে?",
+    "category": "সম্পদ ও অর্থ",
+    "english_equivalent": "Live hand to mouth / extreme penury",
+    "tags": [
+      "poverty",
+      "popular",
+      "bcs"
+    ]
+  },
+  {
+    "id": "idm_124",
+    "phrase": "পট পটল তোলা",
+    "meaning": "মারা যাওয়া বা শেষ হওয়া",
+    "sentence": "দুর্ঘটনায় গাড়িটির চালক ঘটনাস্থলেই পটল তুলল।",
+    "category": "জীবন ও মৃত্যু",
+    "english_equivalent": "Kick the bucket / pass away",
+    "tags": [
+      "death",
+      "humor"
+    ]
+  },
+  {
+    "id": "idm_125",
+    "phrase": "পায়ের তলার মাটি সরে যাওয়া",
+    "meaning": "আশ্রয় বা ভিত্তি হারানো",
+    "sentence": "প্রতারকের মুখোশ খুলে যেতেই তার পায়ের তলার মাটি সরে গেল।",
+    "category": "বিপদ ও সংকট",
+    "english_equivalent": "Lose one's ground / foundation gives way",
+    "tags": [
+      "shock",
+      "defeat"
+    ]
+  },
+  {
+    "id": "idm_126",
+    "phrase": "বগল বাজানো",
+    "meaning": "উল্লাস বা আনন্দ প্রকাশ করা",
+    "sentence": "প্রতিপক্ষের পরাজয়ে বিজয়ী দল বগল বাজাতে বাজাতে মাঠ ছাড়ল।",
+    "category": "মনস্তত্ত্ব ও অনুভূতি",
+    "english_equivalent": "Rejoice triumphantly / gloat over victory",
+    "tags": [
+      "joy",
+      "victory"
+    ]
+  },
+  {
+    "id": "idm_127",
+    "phrase": "বালির আলপনা",
+    "meaning": "ক্ষণস্থায়ী বিষয়",
+    "sentence": "অসৎ উপার্জনের সুখ বালির আলপনার মতো, বাতাসের এক ঝাপটাতেই মিলিয়ে যায়।",
+    "category": "পতন ও ভঙ্গুরতা",
+    "english_equivalent": "Transient creation / sand painting vanishing soon",
+    "tags": [
+      "transient",
+      "bcs"
+    ]
+  },
+  {
+    "id": "idm_128",
+    "phrase": "বিড়াল তপস্বী",
+    "meaning": "কপট সাধু",
+    "sentence": "বাইরে শান্ত অথচ ভেতরে লোভী, এমন লোকই আসল বিড়াল তপস্বী।",
+    "category": "প্রতারণা ও কপটতা",
+    "english_equivalent": "A hypocrite / masquerading saint",
+    "tags": [
+      "hypocrite",
+      "bcs"
+    ]
+  },
+  {
+    "id": "idm_129",
+    "phrase": "ভড়ে ভোঁতা হওয়া",
+    "meaning": "ভয়ে সাহস বা বুদ্ধি হারিয়ে ফেলা",
+    "sentence": "ডাকাতের মুখোমুখি হয়ে পাহারাওয়ালা ভয়ে ভড়ে ভোঁতা হয়ে গেল।",
+    "category": "মনস্তত্ত্ব ও অনুভূতি",
+    "english_equivalent": "Paralyzed with panic / wits stunned by fear",
+    "tags": [
+      "fear",
+      "paralysis"
+    ]
+  },
+  {
+    "id": "idm_130",
+    "phrase": "মড়ার ওপর খাঁড়ার ঘা",
+    "meaning": "কষ্টের ওপর বাড়তি চরম আঘাত",
+    "sentence": "চাকরি হারানোর পর অসুস্থতা—এ যেন মড়ার ওপর খাঁড়ার ঘা।",
+    "category": "বিপদ ও সংকট",
+    "english_equivalent": "Pour water on a drowned mouse / cruelty upon suffering",
+    "tags": [
+      "pain",
+      "bcs"
+    ]
+  },
+  {
+    "id": "idm_131",
+    "phrase": "মেঠো সুর",
+    "meaning": "সহজ সরল গ্রাম্য সুর বা আন্তরিকতা",
+    "sentence": "পল্লীকবির কবিতায় বাংলার চিরন্তন মেঠো সুরের অনুরণন পাওয়া যায়।",
+    "category": "শিক্ষা ও সাহিত্য",
+    "english_equivalent": "Rustic melody / pastoral simplicity",
+    "tags": [
+      "literature",
+      "music"
+    ]
+  },
+  {
+    "id": "idm_132",
+    "phrase": "যমের অরুচি",
+    "meaning": "যে কোনো অবস্থাতেই সহজে মরে না",
+    "sentence": "শত রোগেও বুড়ো টিকে আছে, পাড়ার লোক হাসিমুখে বলে—এ তো যমের অরুচি!",
+    "category": "জীবন ও স্থায়িত্ব",
+    "english_equivalent": "Tough as old boots / death itself disdains him",
+    "tags": [
+      "humor",
+      "survival"
+    ]
+  },
+  {
+    "id": "idm_133",
+    "phrase": "রথে চড়ে যাওয়া",
+    "meaning": "মহামহিমায় চলা বা চিরতরে প্রস্থান করা",
+    "sentence": "এককালের পরাক্রমশালী রাজা আজ নিঃস্ব হয়ে রথে চড়ে চলে গেলেন।",
+    "category": "পতন ও মৃত্যু",
+    "english_equivalent": "Departing in solemn glory / final exit",
+    "tags": [
+      "death",
+      "glory"
+    ]
+  },
+  {
+    "id": "idm_134",
+    "phrase": "লঙ্কাকাণ্ড",
+    "meaning": "ভয়ানক হাঙ্গামা বা তুলকালাম কাণ্ড",
+    "sentence": "তুচ্ছ ঘটনাকে কেন্দ্র করে দুই মহল্লার মধ্যে রীতিমতো লঙ্কাকাণ্ড ঘটে গেল।",
+    "category": "দ্বন্দ্ব ও সংগ্রাম",
+    "english_equivalent": "A great tumult / terrible commotion",
+    "tags": [
+      "conflict",
+      "mythology",
+      "popular"
+    ]
+  },
+  {
+    "id": "idm_135",
+    "phrase": "শাঁখের করাত",
+    "meaning": "উভয় সংকট",
+    "sentence": "সত্য বললে ভাই অপরাধী হয়, আর না বললে নিরপরাধ ব্যক্তি শাস্তি পায়—এ যেন শাঁখের করাত।",
+    "category": "বিপদ ও সংকট",
+    "english_equivalent": "Dilemma / double-edged predicament",
+    "tags": [
+      "dilemma",
+      "bcs"
+    ]
+  },
+  {
+    "id": "idm_136",
+    "phrase": "শকুনি মামা",
+    "meaning": "কুচক্রী বা পরশ্রীকাতর ব্যক্তি",
+    "sentence": "পরিবারের এমন শকুনি মামাদের কারণে অনেক সুখের সংসার ধ্বংস হয়ে যায়।",
+    "category": "প্রতারণা ও শত্রুতা",
+    "english_equivalent": "Malicious instigator / deceitful intriguer",
+    "tags": [
+      "conspiracy",
+      "bcs",
+      "popular"
+    ]
+  },
+  {
+    "id": "idm_137",
+    "phrase": "সোনার পাথরবাটি",
+    "meaning": "অলীক বা অসম্ভব বস্তু",
+    "sentence": "অসাধু রাজনীতিবিদের মুখে সমাজসেবার বুলি সোনার পাথরবাটির সমান।",
+    "category": "অসম্ভাব্যতা ও দুর্লভতা",
+    "english_equivalent": "An impossibility / paradox / absurd contradiction",
+    "tags": [
+      "impossible",
+      "bcs",
+      "exam"
+    ]
+  },
+  {
+    "id": "idm_138",
+    "phrase": "হাতের মুঠোয়",
+    "meaning": "সম্পূর্ণ আয়ত্তে বা নিয়ন্ত্রণে",
+    "sentence": "মেধা ও প্রযুক্তির ব্যবহারে আজকের পৃথিবী মানুষের হাতের মুঠোয় এসেছে।",
+    "category": "শক্তি ও নিয়ন্ত্রণ",
+    "english_equivalent": "Under one's thumb / firmly in hand",
+    "tags": [
+      "control",
+      "power"
+    ]
+  },
+  {
+    "id": "idm_139",
+    "phrase": "হিতে বিপরীত",
+    "meaning": "ভালো করতে গিয়ে অনিষ্ট হওয়া",
+    "sentence": "অসুস্থ রোগীকে অতিরিক্ত ওষুধ দিয়ে হিতে বিপরীত ফল হলো।",
+    "category": "বিপদ ও সংকট",
+    "english_equivalent": "Backfiring / adverse outcome contrary to good intention",
+    "tags": [
+      "backfire",
+      "popular"
+    ]
+  },
+  {
+    "id": "idm_140",
+    "phrase": "হুলুস্থুল কাণ্ড",
+    "meaning": "ব্যাপক তোলপাড় বা শোরগোল",
+    "sentence": "মন্ত্রী আসার খবরে পুরো শহরে হুলুস্থুল কাণ্ড পড়ে গেল।",
+    "category": "বিশৃঙ্খলা ও ঘটনা",
+    "english_equivalent": "Great hullabaloo / immense stir",
+    "tags": [
+      "chaos",
+      "stir"
+    ]
+  }
+]

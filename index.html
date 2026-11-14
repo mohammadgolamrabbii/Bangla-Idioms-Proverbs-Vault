@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="bn" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bangla Idioms & Proverbs Vault — বাগধারা, প্রবাদ-প্রবচন ও সমোচ্চারিত শব্দ আর্কাইভ</title>
+  <meta name="description" content="বাংলা ভাষার বাগধারা (Idioms), প্রবাদ-প্রবচন (Proverbs), সমোচ্চারিত ভিন্নার্থক শব্দ (Homophones) ও এক কথায় প্রকাশের উন্মুক্ত আর্কাইভ, সার্চ ইঞ্জিন ও বিসিএস/ভর্তি পরীক্ষা প্রস্তুতি কুইজ।">
+  <meta name="keywords" content="Bangla Idioms, Bangla Proverbs, বাগধারা, প্রবাদ প্রবচন, সমোচ্চারিত ভিন্নার্থক শব্দ, এক কথায় প্রকাশ, BCS Bangla, বিসিএস প্রস্তুতি, Admission Test Bangla, Open Bangla NLP">
+  <meta name="author" content="Mohammad Golamrabbii">
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="Bangla Idioms & Proverbs Vault — বাগধারা ও প্রবাদ আর্কাইভ">
+  <meta property="og:description" content="বাংলা ভাষার বাগধারা, প্রবাদ-প্রবচন, সমোচ্চারিত শব্দ ও বাক্য সংকোচনের উন্মুক্ত ভাণ্ডার ও ইন্টারেক্টিভ কুইজ পোর্টাল।">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://mohammadgolamrabbii.github.io/Bangla-Idioms-Proverbs-Vault/">
+
+  <!-- Schema.org JSON-LD -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebApplication",
+    "name": "Bangla Idioms & Proverbs Vault",
+    "alternateName": "বাংলা বাগধারা ও প্রবাদ-প্রবচন আর্কাইভ",
+    "description": "Definitive open-source archive and interactive test suite of Bengali Idioms, Proverbs, Homophones, and One-Word Substitutions.",
+    "url": "https://mohammadgolamrabbii.github.io/Bangla-Idioms-Proverbs-Vault/",
+    "applicationCategory": "EducationalApplication",
+    "operatingSystem": "Web Browser",
+    "author": {
+      "@type": "Person",
+      "name": "Mohammad Golamrabbii",
+      "url": "https://linktr.ee/golamrabbii"
+    },
+    "license": "https://opensource.org/licenses/MIT",
+    "inLanguage": "bn"
+  }
+  </script>
+
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📖</text></svg>">
+</head>
+<body>
+
+  <!-- Header -->
+  <header>
+    <div class="container header-inner">
+      <div class="logo-group">
+        <div class="logo-badge">বা</div>
+        <div class="logo-text">
+          <h1>Bangla Idioms & Proverbs Vault</h1>
+          <p>বাংলা বাগধারা, প্রবাদ-প্রবচন ও সমোচ্চারিত শব্দ আর্কাইভ</p>
+        </div>
+      </div>
+      <div class="header-actions">
+        <button id="themeToggle" class="btn" title="থিম পরিবর্তন">🌙 ডার্ক মোড</button>
+        <a href="https://github.com/mohammadgolamrabbii/Bangla-Idioms-Proverbs-Vault" target="_blank" rel="noopener" class="btn btn-primary">
+          <span>⭐ GitHub রিপো</span>
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <div class="container">
+      <h2>বাংলা ভাষার জ্ঞান ও প্রজ্ঞার উন্মুক্ত ভাণ্ডার</h2>
+      <p class="hero-subtitle">
+        বিসিএস, বিশ্ববিদ্যালয় ভর্তি পরীক্ষা, ব্যাংক নিয়োগ ও সাহিত্য সাধনার জন্য বাংলা বাগধারা, প্রবাদ-প্রবচন, সমোচ্চারিত শব্দ ও বাক্য সংকোচনের নির্ভরযোগ্য স্ট্রাকচার্ড ডেটাসেট ও অনুশীলন স্যুট।
+      </p>
+
+      <!-- Stats Row -->
+      <div class="stats-row">
+        <div class="stat-pill">📚 মোট এন্ট্রি: <strong id="statTotal">২৪০+</strong></div>
+        <div class="stat-pill">💎 বাগধারা: <strong id="statIdioms">১৪০</strong></div>
+        <div class="stat-pill">📜 প্রবাদ-প্রবচন: <strong id="statProverbs">৩৫</strong></div>
+        <div class="stat-pill">⚖️ সমোচ্চারিত শব্দ: <strong id="statHomophones">২০ জোড়া</strong></div>
+        <div class="stat-pill">🎯 কুইজ প্রশ্নব্যাংক: <strong>১৫ সেট</strong></div>
+        <div class="stat-pill">⚖️ লাইসেন্স: <strong>MIT Open Source</strong></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Main Content & Controls -->
+  <main class="container">
+    <div class="controls-card">
+      <!-- Search Input -->
+      <div class="search-box">
+        <span class="search-icon">🔍</span>
+        <input type="text" id="searchInput" placeholder="শব্দ, বাগধারা, অর্থ বা ইংরেজি সমার্থক দিয়ে সরাসরি খুঁজুন (যেমন: ডুমুর, চালাক, frog)..." autocomplete="off">
+      </div>
+
+      <!-- Tab Buttons -->
+      <div class="tab-bar">
+        <button class="tab-btn active" data-tab="idioms">
+          <span>💎 বাগধারা (Idioms)</span>
+        </button>
+        <button class="tab-btn" data-tab="proverbs">
+          <span>📜 প্রবাদ-প্রবচন (Proverbs)</span>
+        </button>
+        <button class="tab-btn" data-tab="homophones">
+          <span>⚖️ সমোচ্চারিত শব্দ (Homophones)</span>
+        </button>
+        <button class="tab-btn" data-tab="substitutions">
+          <span>✂️ এক কথায় প্রকাশ (Substitutions)</span>
+        </button>
+        <button class="tab-btn" data-tab="quiz">
+          <span>🎯 পরীক্ষা কুইজ (BCS Quiz)</span>
+        </button>
+        <button class="tab-btn" data-tab="api">
+          <span>📊 এপিআই ও ডাউনলোড (API & Exports)</span>
+        </button>
+      </div>
+
+      <!-- Dynamic Category Chips -->
+      <div id="categoryChips" class="category-chips"></div>
+    </div>
+
+    <!-- Results Header -->
+    <div class="results-header">
+      <span id="resultsCount">অনুসন্ধান ফলাফল প্রদর্শিত হচ্ছে...</span>
+    </div>
+
+    <!-- Cards Grid / Quiz / API Container -->
+    <div id="resultsContainer" class="cards-grid">
+      <!-- Rendered dynamically by app.js -->
+    </div>
+  </main>
+
+  <!-- Toast Notification -->
+  <div id="toast" class="toast">কপি সম্পন্ন হয়েছে!</div>
+
+  <!-- Footer -->
+  <footer>
+    <div class="container">
+      <p style="margin-bottom: 0.5rem;">
+        <strong>Bangla-Idioms-Proverbs-Vault</strong> — সার্বজনীন বাংলা ব্যাকরণ ও সাহিত্য উন্মুক্তকরণ প্রজেক্ট।
+      </p>
+      <p style="font-size: 0.85rem; color: var(--text-muted); margin-bottom: 1rem;">
+        পরিকল্পনা ও উন্নয়ন: <a href="https://linktr.ee/golamrabbii" target="_blank" rel="noopener"><strong>Mohammad Golamrabbii</strong></a> | 
+        <a href="https://github.com/mohammadgolamrabbii" target="_blank" rel="noopener">GitHub</a> • 
+        <a href="https://gitlab.com/golamrabbiii" target="_blank" rel="noopener">GitLab</a> • 
+        <a href="https://codeberg.org/golamrabbii" target="_blank" rel="noopener">Codeberg</a>
+      </p>
+      <p style="font-size: 0.8rem; color: var(--text-muted);">
+        মুক্ত তথ্যপ্রযুক্তি লাইসেন্স <a href="LICENSE" target="_blank">MIT License</a>-এর অধীনে প্রকাশিত।
+      </p>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
